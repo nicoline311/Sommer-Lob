@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sommer-konkurrencen</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#1B1F23">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --asphalt:#1B1F23;
+    --asphalt-card:#22262c;
+    --chalk:#F5F3EE;
+    --flare:#FFC233;
+    --lane-a:#D64E45;
+    --lane-b:#3E7C59;
+    --muted:#8A8F98;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--asphalt);
+    color:var(--chalk);
+    font-family:'Inter',sans-serif;
+    padding:24px 16px 60px;
+  }
+  .wrap{max-width:640px;margin:0 auto;}
+  header{margin-bottom:28px;}
+  .eyebrow{
+    font-family:'Oswald',sans-serif;
+    letter-spacing:.12em;
+    text-transform:uppercase;
+    font-size:12px;
+    color:var(--flare);
+  }
+  h1{
+    font-family:'Oswald',sans-serif;
+    font-weight:700;
+    font-size:28px;
+    margin:4px 0 6px;
+  }
+  .subtitle{color:var(--muted);font-size:14px;}
+
+  .scoreboard{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:12px;
+    margin:24px 0;
+  }
+  .club-card{
+    background:var(--asphalt-card);
+    border-radius:14px;
+    padding:16px;
+    border-top:4px solid var(--lane-a);
+  }
+  .club-card.lane-b{border-top-color:var(--lane-b);}
+  .club-card .name{
+    font-size:13px;color:var(--muted);
+    text-transform:uppercase;letter-spacing:.05em;
+    margin-bottom:6px;
+  }
+  .club-card .km{
+    font-family:'Oswald',sans-serif;
+    font-size:32px;font-weight:700;
+  }
+  .club-card .km span{font-size:15px;color:var(--muted);font-weight:400;}
+  .lead-tag{
+    display:inline-block;margin-top:8px;
+    font-size:11px;font-weight:600;color:var(--asphalt);
+    background:var(--flare);padding:2px 8px;border-radius:20px;
+  }
+
+  .track{
+    background:var(--asphalt-card);
+    border-radius:14px;
+    padding:20px 16px 16px;
+    margin-bottom:28px;
+    position:relative;
+  }
+  .track-label{font-size:12px;color:var(--muted);margin-bottom:12px;text-transform:uppercase;letter-spacing:.05em;}
+  .lane{
+    position:relative;
+    height:14px;
+    background:repeating-linear-gradient(90deg, #2c3138 0 6px, transparent 6px 12px);
+    border-radius:8px;
+    margin-bottom:22px;
+  }
+  .lane:last-of-type{margin-bottom:6px;}
+  .runner{
+    position:absolute;top:50%;transform:translate(-50%,-50%);
+    font-size:20px;
+    transition:left .6s ease;
+  }
+  .finish{
+    position:absolute;right:-2px;top:-6px;bottom:-6px;
+    width:6px;
+    background:repeating-linear-gradient(45deg, var(--chalk) 0 4px, var(--asphalt) 4px 8px);
+    border-radius:3px;
+  }
+
+  table{width:100%;border-collapse:collapse;margin-top:8px;}
+  .section-title{
+    font-family:'Oswald',sans-serif;
+    font-size:15px;text-transform:uppercase;letter-spacing:.05em;
+    color:var(--muted);margin:0 0 12px;
+  }
+  tr{border-bottom:1px solid #2c3138;}
+  td{padding:10px 4px;font-size:14px;}
+  td.rank{width:30px;font-family:'Oswald',sans-serif;color:var(--muted);}
+  td.km{text-align:right;font-family:'Oswald',sans-serif;font-weight:700;white-space:nowrap;}
+  td.club-dot{width:10px;}
+  .dot{display:inline-block;width:8px;height:8px;border-radius:50%;}
+  .updated{
+    text-align:center;color:var(--muted);font-size:12px;margin-top:28px;
+  }
+  .empty{color:var(--muted);text-align:center;padding:40px 0;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Sommer-konkurrence · løb</div>
+    <h1>Hvem løber flest km?</h1>
+    <div class="subtitle" id="dateRange">1. juli – 30. september</div>
+  </header>
+
+  <div id="content">
+    <div class="empty">Henter data…</div>
+  </div>
+</div>
+
+<script>
+async function load() {
+  const el = document.getElementById('content');
+  try {
+    const res = await fetch('leaderboard.json?_=' + Date.now());
+    const data = await res.json();
+    render(data);
+  } catch (e) {
+    el.innerHTML = '<div class="empty">Kunne ikke hente data endnu. Prøv igen om lidt.</div>';
+  }
+}
+
+function render(data) {
+  const el = document.getElementById('content');
+  const clubs = data.clubs || [];
+  const athletes = data.athletes || [];
+
+  if (clubs.length === 0) {
+    el.innerHTML = '<div class="empty">Ingen aktiviteter registreret endnu siden 1. juli.</div>';
+    return;
+  }
+
+  const leaderKm = Math.max(...clubs.map(c => c.total_km));
+  const laneColors = ['var(--lane-a)', 'var(--lane-b)'];
+
+  const scoreboardHtml = clubs.map((c, i) => `
+    <div class="club-card ${i === 1 ? 'lane-b' : ''}">
+      <div class="name">${escapeHtml(c.club)}</div>
+      <div class="km">${c.total_km}<span> km</span></div>
+      ${c.total_km === leaderKm ? '<div class="lead-tag">🏆 Fører</div>' : ''}
+    </div>
+  `).join('');
+
+  const trackMax = leaderKm || 1;
+  const trackHtml = clubs.map((c, i) => `
+    <div class="lane">
+      <div class="runner" style="left:${Math.min(96, (c.total_km / trackMax) * 96)}%;">🏃</div>
+      ${i === clubs.length - 1 ? '<div class="finish"></div>' : ''}
+    </div>
+  `).join('');
+
+  const clubColorMap = {};
+  clubs.forEach((c, i) => clubColorMap[c.club] = laneColors[i % laneColors.length]);
+
+  const athleteRows = athletes.map((a, i) => `
+    <tr>
+      <td class="rank">${medal(i)}</td>
+      <td>${escapeHtml(a.athlete)}</td>
+      <td class="club-dot"><span class="dot" style="background:${clubColorMap[a.club] || '#666'}"></span></td>
+      <td class="km">${a.total_km} km</td>
+    </tr>
+  `).join('');
+
+  el.innerHTML = `
+    <div class="scoreboard">${scoreboardHtml}</div>
+    <div class="track">
+      <div class="track-label">Klubberne mod hinanden</div>
+      ${trackHtml}
+    </div>
+    <div class="section-title">Individuel ranking</div>
+    <table><tbody>${athleteRows}</tbody></table>
+    <div class="updated">Opdateret ${new Date(data.generated_at * 1000).toLocaleString('da-DK')}</div>
+  `;
+}
+
+function medal(i) {
+  return i === 0 ? '🥇' : i === 1 ? '🥈' : i === 2 ? '🥉' : (i + 1);
+}
+
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+load();
+</script>
+</body>
+</html>

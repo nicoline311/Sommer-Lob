@@ -1,0 +1,9 @@
+{
+  "name": "Sommer-konkurrencen",
+  "short_name": "Løbekonk.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1B1F23",
+  "theme_color": "#1B1F23",
+  "icons": []
+}

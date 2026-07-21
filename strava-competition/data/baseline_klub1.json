@@ -1,0 +1,1800 @@
+[
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Amalie",
+            "lastname": "A."
+        },
+        "name": "Middagsl\u00f8betur",
+        "distance": 4244.4,
+        "moving_time": 1653,
+        "elapsed_time": 1668,
+        "total_elevation_gain": 9.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Lea",
+            "lastname": "F."
+        },
+        "name": "Eiffel\ud83d\uddfc",
+        "distance": 7008.0,
+        "moving_time": 2227,
+        "elapsed_time": 2445,
+        "total_elevation_gain": 9.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 265"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Mona My",
+            "lastname": "F."
+        },
+        "name": "Aftenl\u00f8betur",
+        "distance": 4955.7,
+        "moving_time": 1512,
+        "elapsed_time": 1584,
+        "total_elevation_gain": 14.4,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Sebastian",
+            "lastname": "J."
+        },
+        "name": "Intervaller",
+        "distance": 12627.1,
+        "moving_time": 4201,
+        "elapsed_time": 4201,
+        "total_elevation_gain": 61.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": 0,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Lucas",
+            "lastname": "B."
+        },
+        "name": "Afternoon Run",
+        "distance": 4003.4,
+        "moving_time": 1605,
+        "elapsed_time": 1619,
+        "total_elevation_gain": 20.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 45"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Amalie",
+            "lastname": "A."
+        },
+        "name": "Natlig l\u00f8betur",
+        "distance": 6120.4,
+        "moving_time": 2466,
+        "elapsed_time": 2466,
+        "total_elevation_gain": 19.3,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "silas",
+            "lastname": "B."
+        },
+        "name": "L\u00f8b + badetur",
+        "distance": 11039.8,
+        "moving_time": 3383,
+        "elapsed_time": 3411,
+        "total_elevation_gain": 15.8,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Anika",
+            "lastname": "H."
+        },
+        "name": "I det varme",
+        "distance": 5000.2,
+        "moving_time": 1783,
+        "elapsed_time": 1788,
+        "total_elevation_gain": 7.8,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Sebastian",
+            "lastname": "J."
+        },
+        "name": "L\u00f8b om aftenen",
+        "distance": 26005.1,
+        "moving_time": 8571,
+        "elapsed_time": 8721,
+        "total_elevation_gain": 160.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Mona My",
+            "lastname": "F."
+        },
+        "name": "Aftenl\u00f8betur",
+        "distance": 4974.2,
+        "moving_time": 1597,
+        "elapsed_time": 1702,
+        "total_elevation_gain": 14.3,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Lucas",
+            "lastname": "B."
+        },
+        "name": "Lunch Run",
+        "distance": 3005.5,
+        "moving_time": 1201,
+        "elapsed_time": 1729,
+        "total_elevation_gain": 21.3,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 45"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Stine",
+            "lastname": "B."
+        },
+        "name": "long",
+        "distance": 12007.4,
+        "moving_time": 4174,
+        "elapsed_time": 4751,
+        "total_elevation_gain": 35.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin f\u0113nix 7s"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Amalie",
+            "lastname": "A."
+        },
+        "name": "Natlig l\u00f8betur",
+        "distance": 4087.9,
+        "moving_time": 1580,
+        "elapsed_time": 1597,
+        "total_elevation_gain": 10.3,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Christoffer",
+            "lastname": "T."
+        },
+        "name": "Aftenl\u00f8betur",
+        "distance": 3472.7,
+        "moving_time": 1135,
+        "elapsed_time": 1148,
+        "total_elevation_gain": 16.9,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Sebastian",
+            "lastname": "J."
+        },
+        "name": "Tur i bakkerne",
+        "distance": 12981.3,
+        "moving_time": 4205,
+        "elapsed_time": 4341,
+        "total_elevation_gain": 86.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik",
+            "lastname": "L."
+        },
+        "name": "S\u00e6sonens f\u00f8rste beer mile",
+        "distance": 1678.3,
+        "moving_time": 555,
+        "elapsed_time": 566,
+        "total_elevation_gain": 5.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 265"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik Nex\u00f8",
+            "lastname": "K."
+        },
+        "name": "L\u00f8b om eftermiddagen",
+        "distance": 8006.6,
+        "moving_time": 1966,
+        "elapsed_time": 2080,
+        "total_elevation_gain": 9.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "silas",
+            "lastname": "B."
+        },
+        "name": "Run + aperol = bad combination",
+        "distance": 5019.0,
+        "moving_time": 1286,
+        "elapsed_time": 1286,
+        "total_elevation_gain": 10.4,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Mona My",
+            "lastname": "F."
+        },
+        "name": "Morgenl\u00f8betur",
+        "distance": 4239.3,
+        "moving_time": 1487,
+        "elapsed_time": 1602,
+        "total_elevation_gain": 9.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Daniel",
+            "lastname": "S."
+        },
+        "name": "Morgenl\u00f8betur",
+        "distance": 8090.1,
+        "moving_time": 2271,
+        "elapsed_time": 2271,
+        "total_elevation_gain": 12.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Emil",
+            "lastname": "S."
+        },
+        "name": "Middags5k \ud83c\udf1e\ud83e\udd75",
+        "distance": 5001.9,
+        "moving_time": 1393,
+        "elapsed_time": 1412,
+        "total_elevation_gain": 28.9,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Amalie",
+            "lastname": "A."
+        },
+        "name": "Natlig l\u00f8betur",
+        "distance": 4600.5,
+        "moving_time": 1770,
+        "elapsed_time": 1774,
+        "total_elevation_gain": 17.3,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik",
+            "lastname": "L."
+        },
+        "name": "L\u00f8b om aftenen",
+        "distance": 6455.1,
+        "moving_time": 2295,
+        "elapsed_time": 2431,
+        "total_elevation_gain": 15.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 265"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Sebastian",
+            "lastname": "J."
+        },
+        "name": "Intervaller i varmen",
+        "distance": 13166.3,
+        "moving_time": 4145,
+        "elapsed_time": 4201,
+        "total_elevation_gain": 73.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": 0,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Daniel",
+            "lastname": "S."
+        },
+        "name": "Eftermiddagsl\u00f8betur",
+        "distance": 11411.7,
+        "moving_time": 3127,
+        "elapsed_time": 3131,
+        "total_elevation_gain": 15.2,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Lucas",
+            "lastname": "B."
+        },
+        "name": "L\u00f8b om morgenen",
+        "distance": 3655.4,
+        "moving_time": 1418,
+        "elapsed_time": 1476,
+        "total_elevation_gain": 8.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 45"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Stine",
+            "lastname": "B."
+        },
+        "name": "easy",
+        "distance": 7831.0,
+        "moving_time": 2713,
+        "elapsed_time": 2842,
+        "total_elevation_gain": 41.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": 0,
+        "device_name": "Garmin f\u0113nix 7s"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik Nex\u00f8",
+            "lastname": "K."
+        },
+        "name": "L\u00f8b om eftermiddagen",
+        "distance": 8301.0,
+        "moving_time": 2340,
+        "elapsed_time": 2420,
+        "total_elevation_gain": 9.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik",
+            "lastname": "L."
+        },
+        "name": "L\u00f8b om eftermiddagen",
+        "distance": 5949.1,
+        "moving_time": 2074,
+        "elapsed_time": 2161,
+        "total_elevation_gain": 28.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 265"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Sebastian",
+            "lastname": "J."
+        },
+        "name": "L\u00f8b om eftermiddagen",
+        "distance": 23001.1,
+        "moving_time": 7710,
+        "elapsed_time": 8252,
+        "total_elevation_gain": 50.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik Nex\u00f8",
+            "lastname": "K."
+        },
+        "name": "L\u00f8b om eftermiddagen",
+        "distance": 5004.2,
+        "moving_time": 1564,
+        "elapsed_time": 1564,
+        "total_elevation_gain": 6.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Emil",
+            "lastname": "S."
+        },
+        "name": "7.5k f\u00f8dsRun",
+        "distance": 7506.3,
+        "moving_time": 2462,
+        "elapsed_time": 2473,
+        "total_elevation_gain": 54.1,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Lucas",
+            "lastname": "B."
+        },
+        "name": "L\u00f8b om morgenen",
+        "distance": 3003.7,
+        "moving_time": 1242,
+        "elapsed_time": 1276,
+        "total_elevation_gain": 19.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 45"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik",
+            "lastname": "L."
+        },
+        "name": "Flunky part 2",
+        "distance": 8.0,
+        "moving_time": 6,
+        "elapsed_time": 6,
+        "total_elevation_gain": 0.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 265"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Mathias",
+            "lastname": "F."
+        },
+        "name": "L\u00f8b om eftermiddagen",
+        "distance": 9506.5,
+        "moving_time": 2816,
+        "elapsed_time": 2996,
+        "total_elevation_gain": 7.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255 Music"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik",
+            "lastname": "L."
+        },
+        "name": "Flunky",
+        "distance": 7.1,
+        "moving_time": 6,
+        "elapsed_time": 12,
+        "total_elevation_gain": 0.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 265"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Amalie",
+            "lastname": "A."
+        },
+        "name": "Middagsl\u00f8betur",
+        "distance": 5442.0,
+        "moving_time": 2232,
+        "elapsed_time": 2240,
+        "total_elevation_gain": 22.4,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Sebastian",
+            "lastname": "J."
+        },
+        "name": "Intervaller",
+        "distance": 8078.0,
+        "moving_time": 2652,
+        "elapsed_time": 2921,
+        "total_elevation_gain": 7.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": 0,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik Nex\u00f8",
+            "lastname": "K."
+        },
+        "name": "L\u00f8b om eftermiddagen",
+        "distance": 10006.3,
+        "moving_time": 2811,
+        "elapsed_time": 2820,
+        "total_elevation_gain": 7.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Christoffer",
+            "lastname": "T."
+        },
+        "name": "Evening Run",
+        "distance": 5004.9,
+        "moving_time": 1523,
+        "elapsed_time": 1529,
+        "total_elevation_gain": 5.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin f\u0113nix 7 Pro (47mm)"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Christoffer",
+            "lastname": "T."
+        },
+        "name": "Evening Run",
+        "distance": 1803.2,
+        "moving_time": 615,
+        "elapsed_time": 901,
+        "total_elevation_gain": 20.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin f\u0113nix 7 Pro (47mm)"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik Nex\u00f8",
+            "lastname": "K."
+        },
+        "name": "L\u00f8b om morgenen",
+        "distance": 5005.8,
+        "moving_time": 1457,
+        "elapsed_time": 1468,
+        "total_elevation_gain": 6.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Stine",
+            "lastname": "B."
+        },
+        "name": "easy + strides",
+        "distance": 9590.7,
+        "moving_time": 3292,
+        "elapsed_time": 3612,
+        "total_elevation_gain": 30.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin f\u0113nix 7s"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Emil",
+            "lastname": "S."
+        },
+        "name": "6k, 4:00 & 5:00 blanding",
+        "distance": 6000.0,
+        "moving_time": 1595,
+        "elapsed_time": 1595,
+        "total_elevation_gain": 0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Amalie",
+            "lastname": "A."
+        },
+        "name": "Eftermiddagsl\u00f8betur",
+        "distance": 3025.7,
+        "moving_time": 1089,
+        "elapsed_time": 1113,
+        "total_elevation_gain": 10.9,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Mathias",
+            "lastname": "F."
+        },
+        "name": "L\u00f8b om eftermiddagen",
+        "distance": 5011.4,
+        "moving_time": 1272,
+        "elapsed_time": 1288,
+        "total_elevation_gain": 46.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255 Music"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik Nex\u00f8",
+            "lastname": "K."
+        },
+        "name": "L\u00f8b om morgenen",
+        "distance": 5006.8,
+        "moving_time": 1308,
+        "elapsed_time": 1386,
+        "total_elevation_gain": 4.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Christoffer",
+            "lastname": "T."
+        },
+        "name": "L\u00f8b om morgenen",
+        "distance": 3289.5,
+        "moving_time": 1127,
+        "elapsed_time": 1227,
+        "total_elevation_gain": 16.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin f\u0113nix 7 Pro (47mm)"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Sebastian",
+            "lastname": "J."
+        },
+        "name": "L\u00f8b om eftermiddagen",
+        "distance": 16929.3,
+        "moving_time": 5336,
+        "elapsed_time": 5336,
+        "total_elevation_gain": 13.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Nicoline",
+            "lastname": "N."
+        },
+        "name": "Eksamens Shakeout",
+        "distance": 4282.4,
+        "moving_time": 1483,
+        "elapsed_time": 1484,
+        "total_elevation_gain": 0.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik",
+            "lastname": "L."
+        },
+        "name": "F\u00f8rste tur med nyt ur!!!",
+        "distance": 6861.3,
+        "moving_time": 2071,
+        "elapsed_time": 2257,
+        "total_elevation_gain": 19.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 265"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Lucas",
+            "lastname": "B."
+        },
+        "name": "L\u00f8b om morgenen",
+        "distance": 4129.0,
+        "moving_time": 1650,
+        "elapsed_time": 1734,
+        "total_elevation_gain": 15.2,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 45"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Stine",
+            "lastname": "B."
+        },
+        "name": "easy",
+        "distance": 5253.5,
+        "moving_time": 1801,
+        "elapsed_time": 2939,
+        "total_elevation_gain": 35.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin f\u0113nix 7s"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik Nex\u00f8",
+            "lastname": "K."
+        },
+        "name": "L\u00f8b om morgenen",
+        "distance": 8222.4,
+        "moving_time": 2408,
+        "elapsed_time": 2424,
+        "total_elevation_gain": 8.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Stine",
+            "lastname": "B."
+        },
+        "name": "Sprinttr\u00e6ning",
+        "distance": 8575.8,
+        "moving_time": 3312,
+        "elapsed_time": 4400,
+        "total_elevation_gain": 83.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin f\u0113nix 7s"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Amalie",
+            "lastname": "A."
+        },
+        "name": "Eftermiddagsl\u00f8betur",
+        "distance": 4061.7,
+        "moving_time": 1537,
+        "elapsed_time": 1537,
+        "total_elevation_gain": 18.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Mathias",
+            "lastname": "F."
+        },
+        "name": "L\u00f8b om eftermiddagen",
+        "distance": 10504.4,
+        "moving_time": 2993,
+        "elapsed_time": 3157,
+        "total_elevation_gain": 22.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255 Music"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Emil",
+            "lastname": "S."
+        },
+        "name": "Night5k",
+        "distance": 5000.0,
+        "moving_time": 1398,
+        "elapsed_time": 1398,
+        "total_elevation_gain": 0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik Nex\u00f8",
+            "lastname": "K."
+        },
+        "name": "L\u00f8b om eftermiddagen",
+        "distance": 6016.9,
+        "moving_time": 1792,
+        "elapsed_time": 1922,
+        "total_elevation_gain": 20.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik",
+            "lastname": "L."
+        },
+        "name": "P\u00e5 tur efter nyt ur",
+        "distance": 6767.3,
+        "moving_time": 2186,
+        "elapsed_time": 2497,
+        "total_elevation_gain": 17.1,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Christoffer",
+            "lastname": "T."
+        },
+        "name": "L\u00f8b til frokost",
+        "distance": 11043.0,
+        "moving_time": 3778,
+        "elapsed_time": 3950,
+        "total_elevation_gain": 55.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin f\u0113nix 7 Pro (47mm)"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Stine",
+            "lastname": "B."
+        },
+        "name": "easy+strides",
+        "distance": 9539.4,
+        "moving_time": 3316,
+        "elapsed_time": 3475,
+        "total_elevation_gain": 41.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin f\u0113nix 7s"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik Nex\u00f8",
+            "lastname": "K."
+        },
+        "name": "L\u00f8b om eftermiddagen",
+        "distance": 8001.8,
+        "moving_time": 2569,
+        "elapsed_time": 2938,
+        "total_elevation_gain": 34.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik",
+            "lastname": "L."
+        },
+        "name": "1km intervaller",
+        "distance": 7648.8,
+        "moving_time": 2407,
+        "elapsed_time": 2646,
+        "total_elevation_gain": 15.2,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Lucas",
+            "lastname": "B."
+        },
+        "name": "L\u00f8b om morgenen",
+        "distance": 5308.0,
+        "moving_time": 1919,
+        "elapsed_time": 2018,
+        "total_elevation_gain": 33.4,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 45"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Emil",
+            "lastname": "S."
+        },
+        "name": "5k efterfulgt af 3k row",
+        "distance": 5000.0,
+        "moving_time": 1364,
+        "elapsed_time": 1364,
+        "total_elevation_gain": 0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Amalie",
+            "lastname": "A."
+        },
+        "name": "Eftermiddagsl\u00f8betur",
+        "distance": 4038.4,
+        "moving_time": 1465,
+        "elapsed_time": 1465,
+        "total_elevation_gain": 17.3,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik Nex\u00f8",
+            "lastname": "K."
+        },
+        "name": "L\u00f8b om eftermiddagen",
+        "distance": 6006.2,
+        "moving_time": 1564,
+        "elapsed_time": 1617,
+        "total_elevation_gain": 27.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Christoffer",
+            "lastname": "T."
+        },
+        "name": "L\u00f8b om aftenen",
+        "distance": 7015.4,
+        "moving_time": 2144,
+        "elapsed_time": 3091,
+        "total_elevation_gain": 45.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin f\u0113nix 7 Pro (47mm)"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Mathias",
+            "lastname": "F."
+        },
+        "name": "L\u00f8b om eftermiddagen",
+        "distance": 10599.3,
+        "moving_time": 2960,
+        "elapsed_time": 3054,
+        "total_elevation_gain": 21.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255 Music"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik Nex\u00f8",
+            "lastname": "K."
+        },
+        "name": "L\u00f8b om morgenen",
+        "distance": 8499.8,
+        "moving_time": 2732,
+        "elapsed_time": 3128,
+        "total_elevation_gain": 17.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Lucas",
+            "lastname": "B."
+        },
+        "name": "L\u00f8b om morgenen",
+        "distance": 2004.0,
+        "moving_time": 792,
+        "elapsed_time": 792,
+        "total_elevation_gain": 4.9,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 45"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Stine",
+            "lastname": "B."
+        },
+        "name": "Interval",
+        "distance": 9095.7,
+        "moving_time": 2915,
+        "elapsed_time": 3199,
+        "total_elevation_gain": 11.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin f\u0113nix 7s"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Amalie",
+            "lastname": "A."
+        },
+        "name": "Eftermiddagsl\u00f8betur",
+        "distance": 3532.5,
+        "moving_time": 1342,
+        "elapsed_time": 1345,
+        "total_elevation_gain": 15.7,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Sebastian",
+            "lastname": "J."
+        },
+        "name": "L\u00f8b om eftermiddagen",
+        "distance": 3229.4,
+        "moving_time": 1099,
+        "elapsed_time": 1103,
+        "total_elevation_gain": 4.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Emil",
+            "lastname": "K."
+        },
+        "name": "L\u00f8b til frokost",
+        "distance": 10025.3,
+        "moving_time": 3186,
+        "elapsed_time": 3624,
+        "total_elevation_gain": 8.3,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik",
+            "lastname": "L."
+        },
+        "name": "Middagsl\u00f8betur",
+        "distance": 10025.3,
+        "moving_time": 3186,
+        "elapsed_time": 3624,
+        "total_elevation_gain": 8.3,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik Nex\u00f8",
+            "lastname": "K."
+        },
+        "name": "L\u00f8b til frokost",
+        "distance": 10009.8,
+        "moving_time": 2509,
+        "elapsed_time": 2674,
+        "total_elevation_gain": 33.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "silas",
+            "lastname": "B."
+        },
+        "name": "S\u00f8erne rundt med Breum",
+        "distance": 9213.9,
+        "moving_time": 2873,
+        "elapsed_time": 2927,
+        "total_elevation_gain": 7.6,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Stine",
+            "lastname": "B."
+        },
+        "name": "easy",
+        "distance": 12176.1,
+        "moving_time": 4149,
+        "elapsed_time": 4699,
+        "total_elevation_gain": 50.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin f\u0113nix 7s"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Christoffer",
+            "lastname": "T."
+        },
+        "name": "L\u00f8b om eftermiddagen",
+        "distance": 3505.9,
+        "moving_time": 1207,
+        "elapsed_time": 1213,
+        "total_elevation_gain": 16.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin f\u0113nix 7 Pro (47mm)"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Lucas",
+            "lastname": "B."
+        },
+        "name": "L\u00f8b til frokost",
+        "distance": 3294.4,
+        "moving_time": 1353,
+        "elapsed_time": 1393,
+        "total_elevation_gain": 25.5,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 45"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik Nex\u00f8",
+            "lastname": "K."
+        },
+        "name": "L\u00f8b til frokost",
+        "distance": 8762.0,
+        "moving_time": 2486,
+        "elapsed_time": 2539,
+        "total_elevation_gain": 27.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "silas",
+            "lastname": "B."
+        },
+        "name": "F\u00e6lled loops",
+        "distance": 10022.2,
+        "moving_time": 2632,
+        "elapsed_time": 2632,
+        "total_elevation_gain": 21.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Sebastian",
+            "lastname": "J."
+        },
+        "name": "L\u00f8b om aftenen",
+        "distance": 15518.6,
+        "moving_time": 4957,
+        "elapsed_time": 4971,
+        "total_elevation_gain": 17.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik",
+            "lastname": "L."
+        },
+        "name": "Aftenl\u00f8betur",
+        "distance": 5007.1,
+        "moving_time": 1706,
+        "elapsed_time": 1823,
+        "total_elevation_gain": 11.3,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Amalie",
+            "lastname": "A."
+        },
+        "name": "Eftermiddagsl\u00f8betur",
+        "distance": 3278.5,
+        "moving_time": 1225,
+        "elapsed_time": 1225,
+        "total_elevation_gain": 15.7,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Mathias",
+            "lastname": "F."
+        },
+        "name": "L\u00f8b om eftermiddagen",
+        "distance": 5931.0,
+        "moving_time": 1633,
+        "elapsed_time": 1637,
+        "total_elevation_gain": 12.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255 Music"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Stine",
+            "lastname": "B."
+        },
+        "name": "Luftetur",
+        "distance": 9018.8,
+        "moving_time": 3258,
+        "elapsed_time": 4392,
+        "total_elevation_gain": 80.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin f\u0113nix 7s"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik Nex\u00f8",
+            "lastname": "K."
+        },
+        "name": "L\u00f8b om eftermiddagen",
+        "distance": 8307.1,
+        "moving_time": 2508,
+        "elapsed_time": 2686,
+        "total_elevation_gain": 19.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Emil",
+            "lastname": "S."
+        },
+        "name": "Mini4k",
+        "distance": 4001.7,
+        "moving_time": 1078,
+        "elapsed_time": 1085,
+        "total_elevation_gain": 8.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik Nex\u00f8",
+            "lastname": "K."
+        },
+        "name": "L\u00f8b om morgenen",
+        "distance": 7009.4,
+        "moving_time": 1900,
+        "elapsed_time": 2034,
+        "total_elevation_gain": 9.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik",
+            "lastname": "L."
+        },
+        "name": "Parkrun med Thomas",
+        "distance": 5071.8,
+        "moving_time": 1380,
+        "elapsed_time": 1433,
+        "total_elevation_gain": 7.7,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Stine",
+            "lastname": "B."
+        },
+        "name": "Sprinttr\u00e6ning",
+        "distance": 6996.4,
+        "moving_time": 2739,
+        "elapsed_time": 2870,
+        "total_elevation_gain": 34.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin f\u0113nix 7s"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Amalie",
+            "lastname": "A."
+        },
+        "name": "Eftermiddagsl\u00f8betur",
+        "distance": 3092.6,
+        "moving_time": 1111,
+        "elapsed_time": 1151,
+        "total_elevation_gain": 15.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Sebastian",
+            "lastname": "J."
+        },
+        "name": "Afternoon Run",
+        "distance": 17005.4,
+        "moving_time": 5551,
+        "elapsed_time": 5570,
+        "total_elevation_gain": 15.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik Nex\u00f8",
+            "lastname": "K."
+        },
+        "name": "L\u00f8b om eftermiddagen",
+        "distance": 9278.4,
+        "moving_time": 3414,
+        "elapsed_time": 3496,
+        "total_elevation_gain": 17.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Stine",
+            "lastname": "B."
+        },
+        "name": "easy",
+        "distance": 10736.1,
+        "moving_time": 3873,
+        "elapsed_time": 4094,
+        "total_elevation_gain": 37.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin f\u0113nix 7s"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Mathias",
+            "lastname": "F."
+        },
+        "name": "Afternoon Run",
+        "distance": 8684.2,
+        "moving_time": 2460,
+        "elapsed_time": 2623,
+        "total_elevation_gain": 14.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255 Music"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "silas",
+            "lastname": "B."
+        },
+        "name": "Cafeen run",
+        "distance": 156.7,
+        "moving_time": 33,
+        "elapsed_time": 45,
+        "total_elevation_gain": 0.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "silas",
+            "lastname": "B."
+        },
+        "name": "Dream run",
+        "distance": 10129.2,
+        "moving_time": 3332,
+        "elapsed_time": 3436,
+        "total_elevation_gain": 20.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Emil",
+            "lastname": "S."
+        },
+        "name": "Mini4k post ben",
+        "distance": 4000.0,
+        "moving_time": 1068,
+        "elapsed_time": 1068,
+        "total_elevation_gain": 0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Amalie",
+            "lastname": "A."
+        },
+        "name": "Aftenl\u00f8betur",
+        "distance": 2542.6,
+        "moving_time": 919,
+        "elapsed_time": 935,
+        "total_elevation_gain": 7.8,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Strava App"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Frederik Nex\u00f8",
+            "lastname": "K."
+        },
+        "name": "L\u00f8b om eftermiddagen",
+        "distance": 9005.8,
+        "moving_time": 2598,
+        "elapsed_time": 2654,
+        "total_elevation_gain": 10.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Sebastian",
+            "lastname": "J."
+        },
+        "name": "Morning Run",
+        "distance": 10312.3,
+        "moving_time": 3362,
+        "elapsed_time": 3385,
+        "total_elevation_gain": 7.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin Forerunner 255"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Stine",
+            "lastname": "B."
+        },
+        "name": "Interval",
+        "distance": 7910.8,
+        "moving_time": 2496,
+        "elapsed_time": 2799,
+        "total_elevation_gain": 18.0,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": null,
+        "device_name": "Garmin f\u0113nix 7s"
+    }
+]
