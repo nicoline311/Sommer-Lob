@@ -2059,5 +2059,32 @@
     "distance_km": 8.05,
     "type": "Run",
     "first_seen": 1785684615
+  },
+  {
+    "key": "33620c93fed86a5996f55f92f4e44cc5e55a716c1d9ec9d154f292f992721f38",
+    "club": "Stat Act",
+    "athlete": "Lucas B.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 10.0,
+    "type": "Run",
+    "first_seen": 1785689540
+  },
+  {
+    "key": "13170f74f503f2cfb69efca9809204720397b26a9b1df5a79f79297c7a71319a",
+    "club": "Stat Act",
+    "athlete": "Oliver G.",
+    "name": "Løbebånd",
+    "distance_km": 13.5,
+    "type": "Run",
+    "first_seen": 1785689540
+  },
+  {
+    "key": "b58dac0ef280ada91bbaebf0f1c168f1515e33354524c90e8a3122d2cd32612f",
+    "club": "Mat-Øk",
+    "athlete": "Adam L.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 15.03,
+    "type": "Run",
+    "first_seen": 1785689541
   }
 ]
