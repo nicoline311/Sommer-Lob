@@ -1,0 +1,73 @@
+name: Opdater Strava-konkurrence
+
+on:
+  schedule:
+    # Kører hver 3. time. Skriv i UTC. Juster selv efter behov.
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}   # gør det muligt at trykke "Run workflow" manuelt
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hent repo
+        uses: actions/checkout@v4
+
+      - name: Sæt Python op
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer afhængigheder
+        run: pip install requests
+
+      - name: Kør opdatering
+        env:
+          STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
+          STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
+          STRAVA_REFRESH_TOKEN_1: ${{ secrets.STRAVA_REFRESH_TOKEN_1 }}
+          STRAVA_REFRESH_TOKEN_2: ${{ secrets.STRAVA_REFRESH_TOKEN_2 }}
+          KLUB1_ID: ${{ vars.KLUB1_ID }}
+          KLUB1_NAVN: ${{ vars.KLUB1_NAVN }}
+          KLUB2_ID: ${{ vars.KLUB2_ID }}
+          KLUB2_NAVN: ${{ vars.KLUB2_NAVN }}
+        run: python fetch_and_update.py
+
+      - name: Commit og push ændrede data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/activities_store.json docs/leaderboard.json
+          git diff --staged --quiet || git commit -m "Automatisk opdatering af konkurrencedata"
+          git push
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Hent repo (efter opdatering)
+        uses: actions/checkout@v4
+
+      - name: Forbered Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload docs-mappen som Pages-artefakt
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Udgiv til GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
