@@ -2167,5 +2167,23 @@
     "distance_km": 4.09,
     "type": "Run",
     "first_seen": 1785697477
+  },
+  {
+    "key": "45eb375e499c5c367854490da3858c88c4b0f9495c1fec9d69fc4132f7406cb4",
+    "club": "Stat Act",
+    "athlete": "Frederik Nexø K.",
+    "name": "Løb om aftenen",
+    "distance_km": 10.01,
+    "type": "Run",
+    "first_seen": 1785702390
+  },
+  {
+    "key": "a92c56e9b50bc2bcd5cf7208002f23622facd249817018e5dd76739924e53a58",
+    "club": "Stat Act",
+    "athlete": "Oliver G.",
+    "name": "Løbebånd",
+    "distance_km": 15.0,
+    "type": "Run",
+    "first_seen": 1785702390
   }
 ]
