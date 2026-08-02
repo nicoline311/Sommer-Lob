@@ -2185,5 +2185,14 @@
     "distance_km": 15.0,
     "type": "Run",
     "first_seen": 1785702390
+  },
+  {
+    "key": "362322555f6a47aaad704debc62748424186514973f747e570190c9126a79cf6",
+    "club": "Stat Act",
+    "athlete": "Amalie A.",
+    "name": "Natlig løbetur",
+    "distance_km": 7.13,
+    "type": "Run",
+    "first_seen": 1785705820
   }
 ]
