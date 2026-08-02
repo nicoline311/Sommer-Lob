@@ -2,9 +2,8 @@ name: Opdater Strava-konkurrence
 
 on:
   schedule:
-    # Kører hver 3. time. Skriv i UTC. Juster selv efter behov.
     - cron: "0 */3 * * *"
-  workflow_dispatch: {}   # gør det muligt at trykke "Run workflow" manuelt
+  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -16,8 +15,11 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  update:
+  update-and-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Hent repo
         uses: actions/checkout@v4
@@ -49,16 +51,6 @@ jobs:
           git add data/activities_store.json docs/leaderboard.json
           git diff --staged --quiet || git commit -m "Automatisk opdatering af konkurrencedata"
           git push
-
-  deploy:
-    needs: update
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Hent repo (efter opdatering)
-        uses: actions/checkout@v4
 
       - name: Forbered Pages
         uses: actions/configure-pages@v5
