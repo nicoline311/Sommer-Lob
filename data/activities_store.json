@@ -2320,5 +2320,23 @@
     "distance_km": 5.71,
     "type": "Run",
     "first_seen": 1785745915
+  },
+  {
+    "key": "adbece405d7857f57024c0ef5acdf9b1993cadedf710bdb2194875e24250a1cc",
+    "club": "Stat Act",
+    "athlete": "Mathias F.",
+    "name": "Løb til frokost",
+    "distance_km": 10.01,
+    "type": "Run",
+    "first_seen": 1785759317
+  },
+  {
+    "key": "9662732fffa65971eebfea2f086624c4b592172e3cff2677938fe71a84bb020a",
+    "club": "Mat-Øk",
+    "athlete": "Christian K.",
+    "name": "Morning Run",
+    "distance_km": 21.74,
+    "type": "Run",
+    "first_seen": 1785759318
   }
 ]
