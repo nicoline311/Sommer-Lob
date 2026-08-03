@@ -2338,5 +2338,23 @@
     "distance_km": 21.74,
     "type": "Run",
     "first_seen": 1785759318
+  },
+  {
+    "key": "ed352a11ce5f35e0295331e6a5a0b4c5d72554fc7116133715621710d52b9041",
+    "club": "Stat Act",
+    "athlete": "Anika H.",
+    "name": "Eftermiddagsløbetur",
+    "distance_km": 5.0,
+    "type": "Run",
+    "first_seen": 1785770644
+  },
+  {
+    "key": "d36cb6af989b35dff0878404888e783af32a9e16c53217341d508089cec37d70",
+    "club": "Mat-Øk",
+    "athlete": "Magnus S.",
+    "name": "Løb med svigerfar",
+    "distance_km": 6.79,
+    "type": "Run",
+    "first_seen": 1785770646
   }
 ]
