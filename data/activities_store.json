@@ -2572,5 +2572,23 @@
     "distance_km": 9.54,
     "type": "Run",
     "first_seen": 1785783808
+  },
+  {
+    "key": "28a735340c7f54e3ecc26f5f8a28a07a4fa81caf9cba4135713b05515ceb4dcb",
+    "club": "Stat Act",
+    "athlete": "Frederik Nexø K.",
+    "name": "Løb om natten",
+    "distance_km": 9.01,
+    "type": "Run",
+    "first_seen": 1785789718
+  },
+  {
+    "key": "971a4e9d3b51372f327eef852387d9cd39f1c4bb2eb62f66a3186ac14dd4090f",
+    "club": "Stat Act",
+    "athlete": "Amalie A.",
+    "name": "Aftenløbetur",
+    "distance_km": 5.32,
+    "type": "Run",
+    "first_seen": 1785789718
   }
 ]
