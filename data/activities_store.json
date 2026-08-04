@@ -2608,5 +2608,23 @@
     "distance_km": 5.78,
     "type": "Run",
     "first_seen": 1785839395
+  },
+  {
+    "key": "5e9ed998a0467d575f7bec6672d9226865624cd64f668b11384dcf6b3f02e3c6",
+    "club": "Stat Act",
+    "athlete": "Frederik L.",
+    "name": "Løb om morgenen",
+    "distance_km": 6.16,
+    "type": "Run",
+    "first_seen": 1785846424
+  },
+  {
+    "key": "caea5f0e9796d148cf241aa371e899553df103b0deaa78a9a0740d1bb90d3cf8",
+    "club": "Mat-Øk",
+    "athlete": "Johannes L.",
+    "name": "Eftermiddagsløbetur",
+    "distance_km": 6.05,
+    "type": "Run",
+    "first_seen": 1785846426
   }
 ]
