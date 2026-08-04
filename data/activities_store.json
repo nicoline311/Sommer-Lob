@@ -2743,5 +2743,131 @@
     "distance_km": 5.34,
     "type": "Run",
     "first_seen": 1785862577
+  },
+  {
+    "key": "db7a34cd307ec60d8d90c21600f9eb4f65b54743d535dd604ed226907f73ccdf",
+    "club": "Stat Act",
+    "athlete": "Stine B.",
+    "name": "Evening Run",
+    "distance_km": 9.65,
+    "type": "Run",
+    "first_seen": 1785867920
+  },
+  {
+    "key": "66f6366d464adfadff6a7fd358d9b8adbf05fa26165b79f404183737b204a385",
+    "club": "Stat Act",
+    "athlete": "Daniel S.",
+    "name": "back in cph🔥☀️",
+    "distance_km": 15.1,
+    "type": "Run",
+    "first_seen": 1785867920
+  },
+  {
+    "key": "50e6f068d5a707c1863c8ed46e48cc9736f168fb9c0c8faaf523a7e141c7a770",
+    "club": "Stat Act",
+    "athlete": "Line M.",
+    "name": "Lunch Run",
+    "distance_km": 6.82,
+    "type": "Run",
+    "first_seen": 1785867920
+  },
+  {
+    "key": "f9841071d956a50d7df42192a7e5a1ebfb051b05913c715b02ed48ff364e0c34",
+    "club": "Stat Act",
+    "athlete": "Line M.",
+    "name": "Morning Run",
+    "distance_km": 10.25,
+    "type": "Run",
+    "first_seen": 1785867920
+  },
+  {
+    "key": "03432b98eb14ca4a69195f7b54d0748636917f8ce07ec295aa4aae2b6c6bed7d",
+    "club": "Stat Act",
+    "athlete": "Line M.",
+    "name": "Afternoon Run",
+    "distance_km": 12.01,
+    "type": "Run",
+    "first_seen": 1785867920
+  },
+  {
+    "key": "2bc86bc44406bf201960c315657f62a40ef9e711adb819438a42d045e356f509",
+    "club": "Stat Act",
+    "athlete": "Line M.",
+    "name": "Afternoon Run",
+    "distance_km": 23.01,
+    "type": "Run",
+    "first_seen": 1785867920
+  },
+  {
+    "key": "41fab9b96a4a0d78f080a1860ddf1064abd9f5df3c76a271acfbb6cf7056291f",
+    "club": "Stat Act",
+    "athlete": "Line M.",
+    "name": "Løb om morgenen",
+    "distance_km": 12.65,
+    "type": "Run",
+    "first_seen": 1785867920
+  },
+  {
+    "key": "7bd2419d4a23fe1ae83f137aba8323511f9fc5cabfbca2ae666a9c529237ba17",
+    "club": "Stat Act",
+    "athlete": "Line M.",
+    "name": "Afternoon Run",
+    "distance_km": 21.41,
+    "type": "Run",
+    "first_seen": 1785867920
+  },
+  {
+    "key": "d53755f8b9cf54bc7d8c61dc3d3043fbd38c3171b0dd52dda76e999ddcf8dbaf",
+    "club": "Stat Act",
+    "athlete": "Line M.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 10.01,
+    "type": "Run",
+    "first_seen": 1785867920
+  },
+  {
+    "key": "57794754cd4caeb2c998d2aad9966b491a1fb9f30b6730896a639b5c7cb2adc9",
+    "club": "Stat Act",
+    "athlete": "Line M.",
+    "name": "Morning Run",
+    "distance_km": 13.13,
+    "type": "Run",
+    "first_seen": 1785867920
+  },
+  {
+    "key": "89074d5656fd0c9eae637c3e423c7e78f575e2db74a122b1663927c33af1b671",
+    "club": "Mat-Øk",
+    "athlete": "Amalie K.",
+    "name": "🌿👑 Evening Run",
+    "distance_km": 7.55,
+    "type": "Run",
+    "first_seen": 1785867922
+  },
+  {
+    "key": "d6165a6fc2116fca279201444d61a208558ed9596c1cc0f511208a394cec5f5f",
+    "club": "Mat-Øk",
+    "athlete": "Johannes L.",
+    "name": "Ekstratur med Andreas",
+    "distance_km": 1.43,
+    "type": "Run",
+    "first_seen": 1785867922
+  },
+  {
+    "key": "6d2336e24fe6ec2632379c7e94df4532fd67ca6957725e7b7cbee16e88034d5a",
+    "club": "Mat-Øk",
+    "athlete": "Max F.",
+    "name": "Aftenløbetur",
+    "distance_km": 4.89,
+    "type": "Run",
+    "first_seen": 1785867922
+  },
+  {
+    "key": "d5f8ef7a9c333d3f8d51db144d20a89947b9dcb69fa196d41a840c5bbd4da6e6",
+    "club": "Mat-Øk",
+    "athlete": "Adam L.",
+    "name": "Løb om aftenen",
+    "distance_km": 13.17,
+    "type": "Run",
+    "first_seen": 1785867922
   }
 ]

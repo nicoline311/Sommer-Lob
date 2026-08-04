@@ -1,21 +1,21 @@
 {
-  "generated_at": 1785862577,
+  "generated_at": 1785867922,
   "competition_start": "2026-07-01",
   "clubs": [
     {
       "club": "Mat-Øk",
-      "total_km": 1456.8
+      "total_km": 1483.8
     },
     {
       "club": "Stat Act",
-      "total_km": 1074.7
+      "total_km": 1208.7
     }
   ],
   "athletes": [
     {
       "athlete": "Adam L.",
       "club": "Mat-Øk",
-      "total_km": 315.2
+      "total_km": 328.4
     },
     {
       "athlete": "Max R.",
@@ -45,7 +45,17 @@
     {
       "athlete": "Stine B.",
       "club": "Stat Act",
-      "total_km": 112.0
+      "total_km": 121.7
+    },
+    {
+      "athlete": "Line M.",
+      "club": "Stat Act",
+      "total_km": 109.3
+    },
+    {
+      "athlete": "Amalie K.",
+      "club": "Mat-Øk",
+      "total_km": 101.4
     },
     {
       "athlete": "August R.",
@@ -53,24 +63,19 @@
       "total_km": 94.8
     },
     {
-      "athlete": "Amalie K.",
-      "club": "Mat-Øk",
-      "total_km": 93.9
-    },
-    {
       "athlete": "Magnus S.",
       "club": "Mat-Øk",
       "total_km": 86.9
     },
     {
+      "athlete": "Daniel S.",
+      "club": "Stat Act",
+      "total_km": 86.4
+    },
+    {
       "athlete": "Carl Legart B.",
       "club": "Mat-Øk",
       "total_km": 79.2
-    },
-    {
-      "athlete": "Daniel S.",
-      "club": "Stat Act",
-      "total_km": 71.3
     },
     {
       "athlete": "Oliver G.",
@@ -120,7 +125,7 @@
     {
       "athlete": "Johannes L.",
       "club": "Mat-Øk",
-      "total_km": 32.4
+      "total_km": 33.9
     },
     {
       "athlete": "Xenia K.",
@@ -188,6 +193,11 @@
       "total_km": 15.6
     },
     {
+      "athlete": "Max F.",
+      "club": "Mat-Øk",
+      "total_km": 10.9
+    },
+    {
       "athlete": "cks B.",
       "club": "Stat Act",
       "total_km": 10.8
@@ -211,11 +221,6 @@
       "athlete": "Nicoline N.",
       "club": "Stat Act",
       "total_km": 7.3
-    },
-    {
-      "athlete": "Max F.",
-      "club": "Mat-Øk",
-      "total_km": 6.0
     },
     {
       "athlete": "Frederik H.",
