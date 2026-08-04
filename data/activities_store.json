@@ -2626,5 +2626,50 @@
     "distance_km": 6.05,
     "type": "Run",
     "first_seen": 1785846426
+  },
+  {
+    "key": "37a9a9186a5baff2244a4a8923324be77698d7ddfba3fa662de0bc5c81840a1c",
+    "club": "Stat Act",
+    "athlete": "Nicoline N.",
+    "name": "Afternoon Run",
+    "distance_km": 2.44,
+    "type": "Run",
+    "first_seen": 1785855576
+  },
+  {
+    "key": "773ea5f45b971da3e8a45cb9e3b3a327b1682ad6bdfaea007a64ffca5daa79e3",
+    "club": "Mat-Øk",
+    "athlete": "Nicoline N.",
+    "name": "Afternoon Run",
+    "distance_km": 2.44,
+    "type": "Run",
+    "first_seen": 1785855578
+  },
+  {
+    "key": "ee5c6265cca8105fe97d1c32d3d4139cf9a27d7e1a53953123eb4c8a5394ed29",
+    "club": "Mat-Øk",
+    "athlete": "Max R.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 8.0,
+    "type": "Run",
+    "first_seen": 1785855578
+  },
+  {
+    "key": "a8507bd9acfd7dc9ae2961e1df0de98f969c52dc23b7b81691d70f4dde8921f7",
+    "club": "Mat-Øk",
+    "athlete": "Thilde D.",
+    "name": "Eftermiddagsløbetur",
+    "distance_km": 5.39,
+    "type": "Run",
+    "first_seen": 1785855578
+  },
+  {
+    "key": "0f1f99078b3aa64b6bb2f7a4ca1c70da5af7e224a04bfe8aec6b01fd9732adf9",
+    "club": "Mat-Øk",
+    "athlete": "Christian K.",
+    "name": "Afternoon Run",
+    "distance_km": 10.51,
+    "type": "Run",
+    "first_seen": 1785855578
   }
 ]
