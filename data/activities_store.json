@@ -2869,5 +2869,41 @@
     "distance_km": 13.17,
     "type": "Run",
     "first_seen": 1785867922
+  },
+  {
+    "key": "af7293991d4f7a04694f846aa58d0f91f3cd9d5635f4226685fbd89230fd7842",
+    "club": "Stat Act",
+    "athlete": "Lucas X.",
+    "name": "Evening Run",
+    "distance_km": 4.02,
+    "type": "Run",
+    "first_seen": 1785874069
+  },
+  {
+    "key": "b8c693ffec1251d1a5d93fbf6dc0f5c63a6c16a1129400b8854e5f9f4288e8ce",
+    "club": "Stat Act",
+    "athlete": "Xenia K.",
+    "name": "Aftenløbetur",
+    "distance_km": 4.0,
+    "type": "Run",
+    "first_seen": 1785874069
+  },
+  {
+    "key": "c4bb8def1c755df3212a66357aaf6edc9c9668ae2c42474b2069dff1232f173b",
+    "club": "Stat Act",
+    "athlete": "Stine B.",
+    "name": "Interval",
+    "distance_km": 9.65,
+    "type": "Run",
+    "first_seen": 1785874069
+  },
+  {
+    "key": "8e90b3ccbe11837d2e4303eb70132126827c46b5fbc05056eabb17a5912a2b7f",
+    "club": "Mat-Øk",
+    "athlete": "Lucas X.",
+    "name": "Evening Run",
+    "distance_km": 4.02,
+    "type": "Run",
+    "first_seen": 1785874071
   }
 ]
