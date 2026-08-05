@@ -2986,5 +2986,59 @@
     "distance_km": 22.01,
     "type": "Run",
     "first_seen": 1785934384
+  },
+  {
+    "key": "badc040fc8b13566a57ca4aaf7f7ccf9c13689eb2c398039f1c57c6db967bffe",
+    "club": "Stat Act",
+    "athlete": "Daniel S.",
+    "name": "det er varmt🏖️",
+    "distance_km": 8.23,
+    "type": "Run",
+    "first_seen": 1785949134
+  },
+  {
+    "key": "40c9453f599c9362210d9301f26959f54e839b297245079dd5bafe0bef81127c",
+    "club": "Stat Act",
+    "athlete": "Lea F.",
+    "name": "Sjov efter håndboldskole🫪",
+    "distance_km": 6.2,
+    "type": "Run",
+    "first_seen": 1785949134
+  },
+  {
+    "key": "092a8dec3b92232870d78a22c4667b8a53ff587405efbe10fdee719e47931938",
+    "club": "Stat Act",
+    "athlete": "Christoffer T.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 3.31,
+    "type": "Run",
+    "first_seen": 1785949134
+  },
+  {
+    "key": "ae99204c721a240942bf50b0dcb59ebe0c043acaebc72580e191757915950d0f",
+    "club": "Stat Act",
+    "athlete": "Willads A.",
+    "name": "Afternoon Run",
+    "distance_km": 5.61,
+    "type": "Run",
+    "first_seen": 1785949134
+  },
+  {
+    "key": "901917bb320a9e6fd9ed28d481e39d999efb4a53e385683292141bb562d4883f",
+    "club": "Mat-Øk",
+    "athlete": "Frederik H.",
+    "name": "Afternoon Run",
+    "distance_km": 3.92,
+    "type": "Run",
+    "first_seen": 1785949135
+  },
+  {
+    "key": "d0df67ba9ccc5a5f77e5b3a4ac490fd04941a9e7ddbc6ddf705bb4167ea6f132",
+    "club": "Mat-Øk",
+    "athlete": "Sebastian F.",
+    "name": "Eftermiddagsløbetur",
+    "distance_km": 10.41,
+    "type": "Run",
+    "first_seen": 1785949135
   }
 ]

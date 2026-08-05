@@ -1,14 +1,14 @@
 {
-  "generated_at": 1785942601,
+  "generated_at": 1785949135,
   "competition_start": "2026-07-01",
   "clubs": [
     {
       "club": "Mat-Øk",
-      "total_km": 1522.4
+      "total_km": 1536.7
     },
     {
       "club": "Stat Act",
-      "total_km": 1258.2
+      "total_km": 1281.5
     }
   ],
   "athletes": [
@@ -68,14 +68,14 @@
       "total_km": 97.7
     },
     {
+      "athlete": "Daniel S.",
+      "club": "Stat Act",
+      "total_km": 94.6
+    },
+    {
       "athlete": "silas B.",
       "club": "Stat Act",
       "total_km": 89.5
-    },
-    {
-      "athlete": "Daniel S.",
-      "club": "Stat Act",
-      "total_km": 86.4
     },
     {
       "athlete": "Carl Legart B.",
@@ -103,14 +103,14 @@
       "total_km": 60.2
     },
     {
+      "athlete": "Willads A.",
+      "club": "Stat Act",
+      "total_km": 57.0
+    },
+    {
       "athlete": "Oscar H.",
       "club": "Mat-Øk",
       "total_km": 54.7
-    },
-    {
-      "athlete": "Willads A.",
-      "club": "Stat Act",
-      "total_km": 51.4
     },
     {
       "athlete": "Signe J.",
@@ -163,9 +163,24 @@
       "total_km": 25.8
     },
     {
+      "athlete": "Lea F.",
+      "club": "Stat Act",
+      "total_km": 22.4
+    },
+    {
+      "athlete": "Sebastian F.",
+      "club": "Mat-Øk",
+      "total_km": 20.4
+    },
+    {
       "athlete": "Emilie M.",
       "club": "Mat-Øk",
       "total_km": 20.0
+    },
+    {
+      "athlete": "Christoffer T.",
+      "club": "Stat Act",
+      "total_km": 18.9
     },
     {
       "athlete": "Nicoline N.",
@@ -178,19 +193,9 @@
       "total_km": 17.6
     },
     {
-      "athlete": "Lea F.",
-      "club": "Stat Act",
-      "total_km": 16.2
-    },
-    {
       "athlete": "Emil S.",
       "club": "Stat Act",
       "total_km": 16.0
-    },
-    {
-      "athlete": "Christoffer T.",
-      "club": "Stat Act",
-      "total_km": 15.6
     },
     {
       "athlete": "Lucas X.",
@@ -213,19 +218,14 @@
       "total_km": 10.8
     },
     {
-      "athlete": "Sebastian F.",
+      "athlete": "Frederik H.",
       "club": "Mat-Øk",
-      "total_km": 10.0
+      "total_km": 9.8
     },
     {
       "athlete": "Nicoline N.",
       "club": "Stat Act",
       "total_km": 7.3
-    },
-    {
-      "athlete": "Frederik H.",
-      "club": "Mat-Øk",
-      "total_km": 5.9
     },
     {
       "athlete": "Thilde D.",
