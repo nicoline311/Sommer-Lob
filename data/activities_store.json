@@ -2905,5 +2905,23 @@
     "distance_km": 4.02,
     "type": "Run",
     "first_seen": 1785874071
+  },
+  {
+    "key": "90d3b77d7a85302ecd0a536476c9f174a183ab69e7f25e340b4a754966a74d93",
+    "club": "Mat-Øk",
+    "athlete": "August R.",
+    "name": "Løb om morgenen",
+    "distance_km": 6.51,
+    "type": "Run",
+    "first_seen": 1785918239
+  },
+  {
+    "key": "4935ad6bb3a2ae03a85e26c9bc18d763a179c3d1012007c39cb5edbc660d9010",
+    "club": "Mat-Øk",
+    "athlete": "Sebastian Coriani H.",
+    "name": "Hygge med Kock",
+    "distance_km": 6.27,
+    "type": "Run",
+    "first_seen": 1785918239
   }
 ]
