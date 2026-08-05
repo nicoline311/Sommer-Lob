@@ -2977,5 +2977,14 @@
     "distance_km": 5.78,
     "type": "Run",
     "first_seen": 1785927485
+  },
+  {
+    "key": "0637db01860e1f886c2e4193187b9e22382df38706f8c579c087db9919881368",
+    "club": "Stat Act",
+    "athlete": "silas B.",
+    "name": "Half PR🤝",
+    "distance_km": 22.01,
+    "type": "Run",
+    "first_seen": 1785934384
   }
 ]
