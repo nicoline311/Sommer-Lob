@@ -2923,5 +2923,59 @@
     "distance_km": 6.27,
     "type": "Run",
     "first_seen": 1785918239
+  },
+  {
+    "key": "95e711a0237a91b59394315cc4dfce15412402ee338a88a7e7c2d3de31cf822f",
+    "club": "Stat Act",
+    "athlete": "Line M.",
+    "name": "Løb til frokost",
+    "distance_km": 3.79,
+    "type": "Run",
+    "first_seen": 1785927483
+  },
+  {
+    "key": "cb27e20dac3bc074572d8045f0e196277d80b61090ac4b6eba9f965c7879d66e",
+    "club": "Stat Act",
+    "athlete": "Frederik Nexø K.",
+    "name": "Løb om morgenen",
+    "distance_km": 6.01,
+    "type": "Run",
+    "first_seen": 1785927483
+  },
+  {
+    "key": "f1fff22d2ef803a56318917450db6d6cbbb3ede6aa9d6f36c77af376849d2209",
+    "club": "Mat-Øk",
+    "athlete": "Oscar H.",
+    "name": "Løb til frokost",
+    "distance_km": 0.11,
+    "type": "Run",
+    "first_seen": 1785927485
+  },
+  {
+    "key": "214d183b52fb11a73b251798efaffa99050e710437b774541cd6fa93a5ecf52a",
+    "club": "Mat-Øk",
+    "athlete": "Max R.",
+    "name": "Upper zone 2 \"tempo\"",
+    "distance_km": 5.01,
+    "type": "Run",
+    "first_seen": 1785927485
+  },
+  {
+    "key": "36353bbcade0a304b24912c9d52e878b24b99275b9ed3c5b235c890f4d5de82d",
+    "club": "Mat-Øk",
+    "athlete": "Magnus S.",
+    "name": "Morning Run",
+    "distance_km": 10.82,
+    "type": "Run",
+    "first_seen": 1785927485
+  },
+  {
+    "key": "e44eb24589f82d7092149cf98d9933f2c2d61842df938412198cd69c361b33a4",
+    "club": "Mat-Øk",
+    "athlete": "Michala J.",
+    "name": "Morgenløbetur",
+    "distance_km": 5.78,
+    "type": "Run",
+    "first_seen": 1785927485
   }
 ]
