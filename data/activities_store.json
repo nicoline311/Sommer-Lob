@@ -3049,5 +3049,50 @@
     "distance_km": 5.29,
     "type": "Run",
     "first_seen": 1785954219
+  },
+  {
+    "key": "608205f46f5c11b4cf45945dff2788e2ef8571bc5426daa661142ecf782641a4",
+    "club": "Stat Act",
+    "athlete": "Amalie A.",
+    "name": "Løb med bror",
+    "distance_km": 5.23,
+    "type": "Run",
+    "first_seen": 1785960275
+  },
+  {
+    "key": "87c1b37b64e57911b7db13d573b0279fdceb5bc96b837d7d3e9d06919cc7157e",
+    "club": "Stat Act",
+    "athlete": "Signe J.",
+    "name": "Løb om aftenen",
+    "distance_km": 6.19,
+    "type": "Run",
+    "first_seen": 1785960275
+  },
+  {
+    "key": "dddaf0e18a5460828a656ee6960150721d95379086c3b72ddae6f912ef33122e",
+    "club": "Stat Act",
+    "athlete": "Sebastian J.",
+    "name": "Løb om aftenen",
+    "distance_km": 14.37,
+    "type": "Run",
+    "first_seen": 1785960275
+  },
+  {
+    "key": "d3fe33303a9657b8bce545215e60dd5982969d6dc2db11662be6b007cf921c92",
+    "club": "Stat Act",
+    "athlete": "Emil S.",
+    "name": "Aften5k",
+    "distance_km": 5.0,
+    "type": "Run",
+    "first_seen": 1785960275
+  },
+  {
+    "key": "9902b34f0e8b827e75716cd669506882ecf34116b0d928e8f560aa207e5b8d07",
+    "club": "Mat-Øk",
+    "athlete": "Jeppe S.",
+    "name": "5 x 400m @4:45-5:00",
+    "distance_km": 4.53,
+    "type": "Run",
+    "first_seen": 1785960276
   }
 ]

@@ -1,14 +1,14 @@
 {
-  "generated_at": 1785954219,
+  "generated_at": 1785960276,
   "competition_start": "2026-07-01",
   "clubs": [
     {
       "club": "Mat-Øk",
-      "total_km": 1542.0
+      "total_km": 1546.5
     },
     {
       "club": "Stat Act",
-      "total_km": 1281.5
+      "total_km": 1312.3
     }
   ],
   "athletes": [
@@ -33,14 +33,14 @@
       "total_km": 147.7
     },
     {
+      "athlete": "Sebastian J.",
+      "club": "Stat Act",
+      "total_km": 146.3
+    },
+    {
       "athlete": "Christian K.",
       "club": "Mat-Øk",
       "total_km": 142.4
-    },
-    {
-      "athlete": "Sebastian J.",
-      "club": "Stat Act",
-      "total_km": 131.9
     },
     {
       "athlete": "Stine B.",
@@ -83,6 +83,11 @@
       "total_km": 79.2
     },
     {
+      "athlete": "Amalie A.",
+      "club": "Stat Act",
+      "total_km": 74.4
+    },
+    {
       "athlete": "Oliver G.",
       "club": "Stat Act",
       "total_km": 70.9
@@ -91,11 +96,6 @@
       "athlete": "Lucas B.",
       "club": "Stat Act",
       "total_km": 69.3
-    },
-    {
-      "athlete": "Amalie A.",
-      "club": "Stat Act",
-      "total_km": 69.2
     },
     {
       "athlete": "Emilie Bæk C.",
@@ -115,7 +115,7 @@
     {
       "athlete": "Signe J.",
       "club": "Stat Act",
-      "total_km": 46.6
+      "total_km": 52.8
     },
     {
       "athlete": "Mathias F.",
@@ -168,6 +168,16 @@
       "total_km": 22.4
     },
     {
+      "athlete": "Jeppe S.",
+      "club": "Mat-Øk",
+      "total_km": 22.1
+    },
+    {
+      "athlete": "Emil S.",
+      "club": "Stat Act",
+      "total_km": 21.0
+    },
+    {
       "athlete": "Sebastian F.",
       "club": "Mat-Øk",
       "total_km": 20.4
@@ -186,16 +196,6 @@
       "athlete": "Nicoline N.",
       "club": "Mat-Øk",
       "total_km": 18.5
-    },
-    {
-      "athlete": "Jeppe S.",
-      "club": "Mat-Øk",
-      "total_km": 17.6
-    },
-    {
-      "athlete": "Emil S.",
-      "club": "Stat Act",
-      "total_km": 16.0
     },
     {
       "athlete": "Lucas X.",
