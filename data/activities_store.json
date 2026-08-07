@@ -3193,5 +3193,41 @@
     "distance_km": 12.04,
     "type": "Run",
     "first_seen": 1786063024
+  },
+  {
+    "key": "c4a33eed586996e305cbb0153752c62de962faf224e4e7579625ff78b4c46a2e",
+    "club": "Stat Act",
+    "athlete": "Christoffer T.",
+    "name": "Lunch Run",
+    "distance_km": 1.64,
+    "type": "Run",
+    "first_seen": 1786099479
+  },
+  {
+    "key": "94adb5de4888b8a68353d3a39fe40ec2b4bba18a5d7cd4fb3ad9c016d899b9e2",
+    "club": "Stat Act",
+    "athlete": "Christoffer T.",
+    "name": "Lunch Run",
+    "distance_km": 1.54,
+    "type": "Run",
+    "first_seen": 1786099479
+  },
+  {
+    "key": "faa796ae3b7e039d4c8a1106ca77d6135c15c3923f5044567da5b138a5edd36b",
+    "club": "Stat Act",
+    "athlete": "Frederik Nexø K.",
+    "name": "Løb til frokost",
+    "distance_km": 8.01,
+    "type": "Run",
+    "first_seen": 1786099479
+  },
+  {
+    "key": "9d39b2c5902d3959ec676e2cc92dc5cd58fd5d491b83db78677a581e372a6aa7",
+    "club": "Mat-Øk",
+    "athlete": "Christian K.",
+    "name": "Løb om morgenen",
+    "distance_km": 9.62,
+    "type": "Run",
+    "first_seen": 1786099480
   }
 ]
