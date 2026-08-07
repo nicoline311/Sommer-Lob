@@ -3112,5 +3112,86 @@
     "distance_km": 5.01,
     "type": "Run",
     "first_seen": 1786028959
+  },
+  {
+    "key": "60988140c0acfe4504bd096b4e2944bbf8409712a984b4cb0250136f2f956082",
+    "club": "Stat Act",
+    "athlete": "Xenia K.",
+    "name": "Aftenløbetur",
+    "distance_km": 5.0,
+    "type": "Run",
+    "first_seen": 1786063022
+  },
+  {
+    "key": "bec5bbc12ec0dd0116fd078fbe17aef4507d1c77c725ffe6027517fd431b1c5a",
+    "club": "Stat Act",
+    "athlete": "Frederik Nexø K.",
+    "name": "Løb om aftenen",
+    "distance_km": 14.93,
+    "type": "Run",
+    "first_seen": 1786063022
+  },
+  {
+    "key": "286ae659c96bb9c2e9263c0e425cd58c0c1fe252319015f39407ee29e8a5f93f",
+    "club": "Stat Act",
+    "athlete": "Nicoline N.",
+    "name": "Afternoon Run",
+    "distance_km": 2.61,
+    "type": "Run",
+    "first_seen": 1786063022
+  },
+  {
+    "key": "98c20582ec06b867a9138f385c91b54f3f5e78c49325191dce47256cc4f4a5ee",
+    "club": "Mat-Øk",
+    "athlete": "Max F.",
+    "name": "Aftenløbetur",
+    "distance_km": 2.01,
+    "type": "Run",
+    "first_seen": 1786063024
+  },
+  {
+    "key": "a045b7f2b6d6db012a250c9ca2cd0d2f7f9b66e4e1edd77a3bccfece9cb9382d",
+    "club": "Mat-Øk",
+    "athlete": "Nicoline N.",
+    "name": "Afternoon Run",
+    "distance_km": 2.61,
+    "type": "Run",
+    "first_seen": 1786063024
+  },
+  {
+    "key": "cbba1f9c4f16e706759f758bf3450a4408824e922009bd1db942ba821b163f75",
+    "club": "Mat-Øk",
+    "athlete": "Amalie K.",
+    "name": "on x new store cph",
+    "distance_km": 6.32,
+    "type": "Run",
+    "first_seen": 1786063024
+  },
+  {
+    "key": "a6d05d07e637865e239e4a65b32912e46db4dfc6b5bc3fae96a7245190b614dd",
+    "club": "Mat-Øk",
+    "athlete": "Adam L.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 15.52,
+    "type": "Run",
+    "first_seen": 1786063024
+  },
+  {
+    "key": "dc49d38876d23698aaa4bc0f0826fc03d424c2b0d417896da558e72e9deab3e9",
+    "club": "Mat-Øk",
+    "athlete": "Emilie Bæk C.",
+    "name": "Løbe/Gå tur for at se terrænet",
+    "distance_km": 4.55,
+    "type": "Run",
+    "first_seen": 1786063024
+  },
+  {
+    "key": "74135790ff303e43c2190829607fb6a2161b48bc37594bbcc6466eed32b9437b",
+    "club": "Mat-Øk",
+    "athlete": "Christian K.",
+    "name": "Afternoon Run",
+    "distance_km": 12.04,
+    "type": "Run",
+    "first_seen": 1786063024
   }
 ]
