@@ -3301,5 +3301,14 @@
     "distance_km": 10.43,
     "type": "Run",
     "first_seen": 1786126141
+  },
+  {
+    "key": "d75a7c751d4ca32776ecb6d467512df0ff862e5d11b1ae326004a4b0d60d0521",
+    "club": "Stat Act",
+    "athlete": "Stine B.",
+    "name": "Sprinttræning",
+    "distance_km": 8.3,
+    "type": "Run",
+    "first_seen": 1786130810
   }
 ]
