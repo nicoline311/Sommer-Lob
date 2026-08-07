@@ -3265,5 +3265,14 @@
     "distance_km": 12.44,
     "type": "Run",
     "first_seen": 1786111644
+  },
+  {
+    "key": "cbff2d5a6d69b7a2a6b578b85760e78db699af9a259fe9c5e927f2281e1eb77c",
+    "club": "Stat Act",
+    "athlete": "Oliver G.",
+    "name": "Afternoon Run",
+    "distance_km": 5.88,
+    "type": "Run",
+    "first_seen": 1786116189
   }
 ]
