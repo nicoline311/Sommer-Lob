@@ -3247,5 +3247,23 @@
     "distance_km": 12.44,
     "type": "Run",
     "first_seen": 1786106698
+  },
+  {
+    "key": "76db2b5154560a189342e4ea96db7a368d6bcc25b37993f9cca335b955b63929",
+    "club": "Stat Act",
+    "athlete": "Oliver G.",
+    "name": "Evening Run",
+    "distance_km": 6.1,
+    "type": "Run",
+    "first_seen": 1786111643
+  },
+  {
+    "key": "dceab7a2b4b5ac9a8e4e7d7a6ebc953ae5b909f3effd1dfe8728a2b797ec0880",
+    "club": "Mat-Øk",
+    "athlete": "Emilie Bæk C.",
+    "name": "WBOC Classic 2026 (W21)",
+    "distance_km": 12.44,
+    "type": "Run",
+    "first_seen": 1786111644
   }
 ]
