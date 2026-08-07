@@ -3292,5 +3292,14 @@
     "distance_km": 15.43,
     "type": "Run",
     "first_seen": 1786122883
+  },
+  {
+    "key": "e71067855e3f4b483f6a3d771f4e6000b82e68931fe2a9904e80a85b4312ce1b",
+    "club": "Stat Act",
+    "athlete": "Amalie A.",
+    "name": "Aftenløbetur",
+    "distance_km": 10.43,
+    "type": "Run",
+    "first_seen": 1786126141
   }
 ]
