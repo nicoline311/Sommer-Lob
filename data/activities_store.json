@@ -3319,5 +3319,14 @@
     "distance_km": 4.64,
     "type": "Run",
     "first_seen": 1786174941
+  },
+  {
+    "key": "c65a16349a9b90af14128e167479828597604d1a997d764f4e8245a55a5a71ee",
+    "club": "Stat Act",
+    "athlete": "Stine B.",
+    "name": "Long w threshold",
+    "distance_km": 17.07,
+    "type": "Run",
+    "first_seen": 1786181389
   }
 ]

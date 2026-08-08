@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786177895,
+  "generated_at": 1786181391,
   "competition_start": "2026-07-01",
   "clubs": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "club": "Stat Act",
-      "total_km": 1376.8
+      "total_km": 1393.8
     }
   ],
   "athletes": [
@@ -38,14 +38,14 @@
       "total_km": 164.1
     },
     {
+      "athlete": "Stine B.",
+      "club": "Stat Act",
+      "total_km": 156.7
+    },
+    {
       "athlete": "Sebastian J.",
       "club": "Stat Act",
       "total_km": 146.3
-    },
-    {
-      "athlete": "Stine B.",
-      "club": "Stat Act",
-      "total_km": 139.6
     },
     {
       "athlete": "Line M.",
