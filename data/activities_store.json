@@ -3346,5 +3346,41 @@
     "distance_km": 4.41,
     "type": "Run",
     "first_seen": 1786183440
+  },
+  {
+    "key": "eded5bf11443317d7b7f1285c681b299fcda8d6760394dd09349440da73cdaee",
+    "club": "Stat Act",
+    "athlete": "Willads A.",
+    "name": "Lunch Run",
+    "distance_km": 6.61,
+    "type": "Run",
+    "first_seen": 1786186732
+  },
+  {
+    "key": "cd696c182c0e640f967b399bd97e00ceb16ed14e75008ebb836b97b90b5db489",
+    "club": "Mat-Øk",
+    "athlete": "Emilie M.",
+    "name": "Så vi klar til mange ølbong",
+    "distance_km": 5.03,
+    "type": "Run",
+    "first_seen": 1786186734
+  },
+  {
+    "key": "e5c43b2bba8fce9e5fca29ed9e17f49d27ba3bc66352203973bbb54e97b7bc10",
+    "club": "Mat-Øk",
+    "athlete": "Michala J.",
+    "name": "Middagsløbetur",
+    "distance_km": 7.62,
+    "type": "Run",
+    "first_seen": 1786186734
+  },
+  {
+    "key": "0af825e46f479b0865feafcd616d15aa2b42b1b8840074f5c3ac76da7898dcfe",
+    "club": "Mat-Øk",
+    "athlete": "Amalie K.",
+    "name": "inkl. mange pauser",
+    "distance_km": 13.01,
+    "type": "Run",
+    "first_seen": 1786186734
   }
 ]
