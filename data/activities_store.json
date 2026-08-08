@@ -3310,5 +3310,14 @@
     "distance_km": 8.3,
     "type": "Run",
     "first_seen": 1786130810
+  },
+  {
+    "key": "6518fdf0734440d3902b4d99ef8e7a33b4d0ae106a4092840d81e15cbe1dc67a",
+    "club": "Mat-Øk",
+    "athlete": "Frederik H.",
+    "name": "Morgentur på øernes ø",
+    "distance_km": 4.64,
+    "type": "Run",
+    "first_seen": 1786174941
   }
 ]
