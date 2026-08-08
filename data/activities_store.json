@@ -3382,5 +3382,32 @@
     "distance_km": 13.01,
     "type": "Run",
     "first_seen": 1786186734
+  },
+  {
+    "key": "695e659f5d95204878738131bdb7ea646e69a4b39ea2a4e135e10590d2aea35d",
+    "club": "Stat Act",
+    "athlete": "Christoffer T.",
+    "name": "Morning Run",
+    "distance_km": 4.0,
+    "type": "Run",
+    "first_seen": 1786192325
+  },
+  {
+    "key": "0ada49b60fa66f354694960ce1c1b37b92e21564469eac133cf9699c4fcc506e",
+    "club": "Mat-Øk",
+    "athlete": "Emilie Bæk C.",
+    "name": "WBOC Sprint (W21)",
+    "distance_km": 4.41,
+    "type": "Run",
+    "first_seen": 1786192326
+  },
+  {
+    "key": "883d4d4caa256f0e455c1d783ec00fa7c4f21ddf9ffafcd29b634b64626bd81c",
+    "club": "Mat-Øk",
+    "athlete": "Emilie Bæk C.",
+    "name": "WBOC Classic (W21)",
+    "distance_km": 12.44,
+    "type": "Run",
+    "first_seen": 1786192326
   }
 ]
