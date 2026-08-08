@@ -3328,5 +3328,23 @@
     "distance_km": 17.07,
     "type": "Run",
     "first_seen": 1786181389
+  },
+  {
+    "key": "5eb6db3872aa05d8ae239406c4bee958d6acf009bc1b42b5d035e53aabfa8003",
+    "club": "Stat Act",
+    "athlete": "Frederik Nexø K.",
+    "name": "Løb om morgenen",
+    "distance_km": 13.34,
+    "type": "Run",
+    "first_seen": 1786183439
+  },
+  {
+    "key": "2e132d07908b599f79dce0056f9b3ca895ea6ff81c1c73b6032ad08c0a8e2256",
+    "club": "Mat-Øk",
+    "athlete": "Emilie Bæk C.",
+    "name": "Lunch Run",
+    "distance_km": 4.41,
+    "type": "Run",
+    "first_seen": 1786183440
   }
 ]
