@@ -3463,5 +3463,14 @@
     "distance_km": 12.01,
     "type": "Run",
     "first_seen": 1786218697
+  },
+  {
+    "key": "7cbe1c0b234a3035075d325c917995456a6ba59548e43c3ff917c4459de2513c",
+    "club": "Mat-Øk",
+    "athlete": "Michala J.",
+    "name": "Morgenløbetur",
+    "distance_km": 5.21,
+    "type": "Run",
+    "first_seen": 1786267913
   }
 ]
