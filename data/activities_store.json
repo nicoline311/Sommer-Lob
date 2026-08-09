@@ -3499,5 +3499,23 @@
     "distance_km": 12.51,
     "type": "Run",
     "first_seen": 1786276423
+  },
+  {
+    "key": "b55bcb60b122dfff08d4ea7b6eed349ba5c257fff3a7175aa8111122f4e05ad0",
+    "club": "Stat Act",
+    "athlete": "Daniel S.",
+    "name": "havneløbet rundt🥺",
+    "distance_km": 14.47,
+    "type": "Run",
+    "first_seen": 1786278889
+  },
+  {
+    "key": "f1104cfd152287685e5bdccaf374ab8d5f29ac2e3653a612ac0d157e22115e8d",
+    "club": "Mat-Øk",
+    "athlete": "Max F.",
+    "name": "Eftermiddagsløbetur",
+    "distance_km": 5.08,
+    "type": "Run",
+    "first_seen": 1786278890
   }
 ]
