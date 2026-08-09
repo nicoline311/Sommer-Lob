@@ -3535,5 +3535,23 @@
     "distance_km": 5.01,
     "type": "Run",
     "first_seen": 1786292863
+  },
+  {
+    "key": "a95e258efded67cbe2e354685524fd6b27e01a95170bbc517b2d93fd3c7eb849",
+    "club": "Stat Act",
+    "athlete": "Frederik L.",
+    "name": "Løb hjem fra padel",
+    "distance_km": 5.2,
+    "type": "Run",
+    "first_seen": 1786295066
+  },
+  {
+    "key": "09c1efd1519685514c4380729a930fc4a12d092c1a6e49eb0b83614b91874830",
+    "club": "Stat Act",
+    "athlete": "Stine B.",
+    "name": "ROTB",
+    "distance_km": 11.53,
+    "type": "Run",
+    "first_seen": 1786295066
   }
 ]
