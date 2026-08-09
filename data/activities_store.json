@@ -3472,5 +3472,14 @@
     "distance_km": 5.21,
     "type": "Run",
     "first_seen": 1786267913
+  },
+  {
+    "key": "e8947ed2106467bed316309cc7e8a673cfd8e94939b14fe5ec82aa9116a00f66",
+    "club": "Mat-Øk",
+    "athlete": "Magnus S.",
+    "name": "Løb til frokost",
+    "distance_km": 3.17,
+    "type": "Run",
+    "first_seen": 1786271105
   }
 ]
