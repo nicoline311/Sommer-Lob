@@ -3553,5 +3553,32 @@
     "distance_km": 11.53,
     "type": "Run",
     "first_seen": 1786295066
+  },
+  {
+    "key": "52ba9c5e283f5402a73ea3d4da0b0837ed310d2592d2fde9c863af291d4cda35",
+    "club": "Mat-Øk",
+    "athlete": "Yi H.",
+    "name": "Evening Run",
+    "distance_km": 8.46,
+    "type": "Run",
+    "first_seen": 1786298213
+  },
+  {
+    "key": "6e655447fe669e5c5545ef53f1f449ef818ed7e70d915816479113a3dbf461e8",
+    "club": "Mat-Øk",
+    "athlete": "August R.",
+    "name": "Løb om aftenen",
+    "distance_km": 10.1,
+    "type": "Run",
+    "first_seen": 1786298213
+  },
+  {
+    "key": "c35ed300a16a3fe29c195d454fbcbb854d165c8b7f6f2f111a0f9ea0dc68bd6c",
+    "club": "Mat-Øk",
+    "athlete": "Sebastian Coriani H.",
+    "name": "Verdens største lasso 🤩",
+    "distance_km": 30.02,
+    "type": "Run",
+    "first_seen": 1786298213
   }
 ]
