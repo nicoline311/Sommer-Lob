@@ -3526,5 +3526,14 @@
     "distance_km": 8.23,
     "type": "Run",
     "first_seen": 1786290953
+  },
+  {
+    "key": "44c6f91c4f709591dd23149b43470188b93f3d505c39e20d9251c6028623be96",
+    "club": "Stat Act",
+    "athlete": "Lucas B.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 5.01,
+    "type": "Run",
+    "first_seen": 1786292863
   }
 ]
