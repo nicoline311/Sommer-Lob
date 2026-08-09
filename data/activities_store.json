@@ -3490,5 +3490,14 @@
     "distance_km": 10.27,
     "type": "Run",
     "first_seen": 1786273261
+  },
+  {
+    "key": "06a88ebce877434dd77bc5786cea44ffa47e20d812e65eb48e0dc6bd6c53646c",
+    "club": "Stat Act",
+    "athlete": "Frederik Nexø K.",
+    "name": "Løb til frokost",
+    "distance_km": 12.51,
+    "type": "Run",
+    "first_seen": 1786276423
   }
 ]
