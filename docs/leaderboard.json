@@ -1,10 +1,10 @@
 {
-  "generated_at": 1786344568,
+  "generated_at": 1786350144,
   "competition_start": "2026-07-01",
   "clubs": [
     {
       "club": "Mat-Øk",
-      "total_km": 1853.5
+      "total_km": 1858.8
     },
     {
       "club": "Stat Act",
@@ -223,6 +223,11 @@
       "total_km": 10.8
     },
     {
+      "athlete": "Thilde D.",
+      "club": "Mat-Øk",
+      "total_km": 10.7
+    },
+    {
       "athlete": "Nicoline N.",
       "club": "Stat Act",
       "total_km": 9.9
@@ -231,11 +236,6 @@
       "athlete": "Yi H.",
       "club": "Mat-Øk",
       "total_km": 8.5
-    },
-    {
-      "athlete": "Thilde D.",
-      "club": "Mat-Øk",
-      "total_km": 5.4
     },
     {
       "athlete": "Noah Bøggild I.",
