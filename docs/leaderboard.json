@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786363593,
+  "generated_at": 1786369936,
   "competition_start": "2026-07-01",
   "clubs": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "club": "Stat Act",
-      "total_km": 1508.0
+      "total_km": 1513.0
     }
   ],
   "athletes": [
@@ -128,14 +128,14 @@
       "total_km": 47.1
     },
     {
+      "athlete": "Xenia K.",
+      "club": "Stat Act",
+      "total_km": 45.6
+    },
+    {
       "athlete": "Mathias F.",
       "club": "Stat Act",
       "total_km": 41.5
-    },
-    {
-      "athlete": "Xenia K.",
-      "club": "Stat Act",
-      "total_km": 40.6
     },
     {
       "athlete": "Frederik L.",
