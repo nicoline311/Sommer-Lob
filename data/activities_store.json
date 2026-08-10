@@ -3616,5 +3616,14 @@
     "distance_km": 7.01,
     "type": "Run",
     "first_seen": 1786355735
+  },
+  {
+    "key": "7ebe4b6210f66382125b5f53fa61cb0645a7c8f2e14aca2cfe54e96e7548d17c",
+    "club": "Mat-Øk",
+    "athlete": "Michala J.",
+    "name": "Middagsløbetur",
+    "distance_km": 8.22,
+    "type": "Run",
+    "first_seen": 1786359719
   }
 ]
