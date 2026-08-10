@@ -3688,5 +3688,23 @@
     "distance_km": 12.06,
     "type": "Run",
     "first_seen": 1786380334
+  },
+  {
+    "key": "0613751f5d11432896d26d0599039ccc224d57825ca3bd326b4dece52969f384",
+    "club": "Stat Act",
+    "athlete": "Line M.",
+    "name": "Afternoon Run",
+    "distance_km": 4.64,
+    "type": "Run",
+    "first_seen": 1786383880
+  },
+  {
+    "key": "3d8cccd31ff622d84dcb4a19b83d42a8d04f7fc1a5acdfa60b81e6db282b51ee",
+    "club": "Mat-Øk",
+    "athlete": "Amalie K.",
+    "name": "Evening Run",
+    "distance_km": 7.83,
+    "type": "Run",
+    "first_seen": 1786383882
   }
 ]
