@@ -3625,5 +3625,14 @@
     "distance_km": 8.22,
     "type": "Run",
     "first_seen": 1786359719
+  },
+  {
+    "key": "b0841c9124082ce7c4b97f2dfda77e2ae6f6eff815b2e63ac989c5369df98617",
+    "club": "Stat Act",
+    "athlete": "Mathias F.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 4.95,
+    "type": "Run",
+    "first_seen": 1786363592
   }
 ]
