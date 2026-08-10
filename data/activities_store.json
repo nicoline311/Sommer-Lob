@@ -3589,5 +3589,14 @@
     "distance_km": 23.01,
     "type": "Run",
     "first_seen": 1786305385
+  },
+  {
+    "key": "7a1f907ea1752b140750fc9cfd431e410e9ca6fccfd538212a569a8e08d89b07",
+    "club": "Mat-Øk",
+    "athlete": "Frederik H.",
+    "name": "Morning Run",
+    "distance_km": 5.26,
+    "type": "Run",
+    "first_seen": 1786344568
   }
 ]
