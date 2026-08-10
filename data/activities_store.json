@@ -3706,5 +3706,14 @@
     "distance_km": 7.83,
     "type": "Run",
     "first_seen": 1786383882
+  },
+  {
+    "key": "b9c37d04489b9cd1d35691561e93ce9bbe99264cec5d904737186469ff3c876b",
+    "club": "Stat Act",
+    "athlete": "Frederik Nexø K.",
+    "name": "Løb om aftenen",
+    "distance_km": 8.31,
+    "type": "Run",
+    "first_seen": 1786387524
   }
 ]
