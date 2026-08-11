@@ -3787,5 +3787,14 @@
     "distance_km": 5.02,
     "type": "Run",
     "first_seen": 1786446764
+  },
+  {
+    "key": "e7ec28be2500c0532ec7a2f385b0f06fccbb595b8a1aaa5106610a47fc2b52d8",
+    "club": "Stat Act",
+    "athlete": "Anika H.",
+    "name": "Lunch run",
+    "distance_km": 5.01,
+    "type": "Run",
+    "first_seen": 1786449977
   }
 ]
