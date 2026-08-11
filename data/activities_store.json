@@ -3733,5 +3733,14 @@
     "distance_km": 3.15,
     "type": "Run",
     "first_seen": 1786431242
+  },
+  {
+    "key": "f450600a479f0db89fc95ba9022fd70bd4d2986987e96593a60326cf758b6134",
+    "club": "Mat-Øk",
+    "athlete": "Johannes L.",
+    "name": "Morgenløbetur",
+    "distance_km": 6.3,
+    "type": "Run",
+    "first_seen": 1786440529
   }
 ]
