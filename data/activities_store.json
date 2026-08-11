@@ -3724,5 +3724,14 @@
     "distance_km": 10.6,
     "type": "Run",
     "first_seen": 1786394037
+  },
+  {
+    "key": "3fd94371194d1a0835999d18d9616b7ec0945c8c6999674a87250ef747aace48",
+    "club": "Stat Act",
+    "athlete": "Christoffer T.",
+    "name": "Morning Run",
+    "distance_km": 3.15,
+    "type": "Run",
+    "first_seen": 1786431242
   }
 ]
