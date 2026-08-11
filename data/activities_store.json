@@ -3760,5 +3760,32 @@
     "distance_km": 5.06,
     "type": "Run",
     "first_seen": 1786443932
+  },
+  {
+    "key": "01123ebe2a2b6d7eb52dde4107277ae3e642bc4b5d067dbb17d0e6de5753b357",
+    "club": "Stat Act",
+    "athlete": "Stine B.",
+    "name": "Luftetur",
+    "distance_km": 9.41,
+    "type": "Run",
+    "first_seen": 1786446763
+  },
+  {
+    "key": "f2edb25a09835c7a39058911191e8acf00b58640e1bf20c14410c471136b637e",
+    "club": "Mat-Øk",
+    "athlete": "Emilie M.",
+    "name": "Med damerne på tur",
+    "distance_km": 6.93,
+    "type": "Run",
+    "first_seen": 1786446764
+  },
+  {
+    "key": "6a9755d814c5e34ca2b505044df22910af7eab2263ada16529a4250d81708cba",
+    "club": "Mat-Øk",
+    "athlete": "Christian K.",
+    "name": "Morning Run",
+    "distance_km": 5.02,
+    "type": "Run",
+    "first_seen": 1786446764
   }
 ]
