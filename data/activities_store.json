@@ -3850,5 +3850,32 @@
     "distance_km": 8.88,
     "type": "Run",
     "first_seen": 1786470732
+  },
+  {
+    "key": "488b74f5c626dbf8133e6b55586f69125a9beea2ae203e721896fb947913f88f",
+    "club": "Stat Act",
+    "athlete": "Signe J.",
+    "name": "Løb om aftenen",
+    "distance_km": 6.01,
+    "type": "Run",
+    "first_seen": 1786474319
+  },
+  {
+    "key": "93c91615519d93ef3eb7b61324c0c2ccda914ed5cad9d71b98f8a4c564683f13",
+    "club": "Stat Act",
+    "athlete": "Stine B.",
+    "name": "Interval",
+    "distance_km": 9.82,
+    "type": "Run",
+    "first_seen": 1786474319
+  },
+  {
+    "key": "378606e97576c1a9b3df4625f4b8f1a63e3a2da71dcdf6d04ebd22e6fdc51532",
+    "club": "Mat-Øk",
+    "athlete": "August R.",
+    "name": "Løb om aftenen",
+    "distance_km": 8.05,
+    "type": "Run",
+    "first_seen": 1786474321
   }
 ]
