@@ -3922,5 +3922,14 @@
     "distance_km": 10.01,
     "type": "Run",
     "first_seen": 1786534868
+  },
+  {
+    "key": "a934bca2d569ed3a5c244b4cc3712e18c1ff51848701835741385ba6ce1ed3c3",
+    "club": "Mat-Øk",
+    "athlete": "Sebastian F.",
+    "name": "Eftermiddagsløbetur",
+    "distance_km": 5.0,
+    "type": "Run",
+    "first_seen": 1786544187
   }
 ]
