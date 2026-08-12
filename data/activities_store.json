@@ -3877,5 +3877,23 @@
     "distance_km": 8.05,
     "type": "Run",
     "first_seen": 1786474321
+  },
+  {
+    "key": "3a01b1ec5317cd5661de9c5bcfbf24a7a6a2d572cac7c03ca1e459dd19cdaee0",
+    "club": "Stat Act",
+    "athlete": "Daniel S.",
+    "name": "da usual😋☀️",
+    "distance_km": 14.32,
+    "type": "Run",
+    "first_seen": 1786527469
+  },
+  {
+    "key": "064586edcc0ca1644e120f6a529f96e6a5a3ed60609dba1651ea29917eae622b",
+    "club": "Mat-Øk",
+    "athlete": "August R.",
+    "name": "Løb om morgenen",
+    "distance_km": 8.1,
+    "type": "Run",
+    "first_seen": 1786527471
   }
 ]
