@@ -3967,5 +3967,32 @@
     "distance_km": 13.02,
     "type": "Run",
     "first_seen": 1786555592
+  },
+  {
+    "key": "098de6fe26e351c975c1d5611f68808ceee0749d7dcb99ef2d063be1ee57e580",
+    "club": "Stat Act",
+    "athlete": "silas B.",
+    "name": "Eclipse run",
+    "distance_km": 10.03,
+    "type": "Run",
+    "first_seen": 1786563285
+  },
+  {
+    "key": "f0cb97c76d9aa802c2fd16a585188f2b0f6785ad743077db1abb4f4503c96cd0",
+    "club": "Stat Act",
+    "athlete": "Emil S.",
+    "name": "10k solformørkelsesfornøjelse med mr masterclass",
+    "distance_km": 10.2,
+    "type": "Run",
+    "first_seen": 1786563285
+  },
+  {
+    "key": "0a25cb6b977e58d650404f1c003c6ad0510491a1743957e88142877ea548dc30",
+    "club": "Stat Act",
+    "athlete": "Frederik Nexø K.",
+    "name": "Løb om aftenen",
+    "distance_km": 11.01,
+    "type": "Run",
+    "first_seen": 1786563285
   }
 ]
