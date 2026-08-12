@@ -3940,5 +3940,23 @@
     "distance_km": 12.01,
     "type": "Run",
     "first_seen": 1786548460
+  },
+  {
+    "key": "d80fc33ccebec7c66eb5f91666544a431ca9ca9006137a509b7a85b9d3e21d7b",
+    "club": "Stat Act",
+    "athlete": "Willads A.",
+    "name": "Afternoon Run",
+    "distance_km": 6.64,
+    "type": "Run",
+    "first_seen": 1786551921
+  },
+  {
+    "key": "74f6ba566aa44a68e682b08eac69cfd5494c559e0c6f311ec001ae2b930a61a8",
+    "club": "Stat Act",
+    "athlete": "Amalie A.",
+    "name": "Eftermiddagsløbetur",
+    "distance_km": 4.33,
+    "type": "Run",
+    "first_seen": 1786551921
   }
 ]
