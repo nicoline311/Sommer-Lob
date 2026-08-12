@@ -3931,5 +3931,14 @@
     "distance_km": 5.0,
     "type": "Run",
     "first_seen": 1786544187
+  },
+  {
+    "key": "5f308751b96499b6f8922201280c93c371b92f43fef0e62b2609cf35fd3c6319",
+    "club": "Mat-Øk",
+    "athlete": "Sebastian Coriani H.",
+    "name": "Easy run",
+    "distance_km": 12.01,
+    "type": "Run",
+    "first_seen": 1786548460
   }
 ]
