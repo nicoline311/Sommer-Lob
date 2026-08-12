@@ -3913,5 +3913,14 @@
     "distance_km": 8.1,
     "type": "Run",
     "first_seen": 1786532055
+  },
+  {
+    "key": "14bd1284ab1d4955fb365929278c649bb84b3a1eaae5c3fa53506091bdd413a6",
+    "club": "Stat Act",
+    "athlete": "Mathias F.",
+    "name": "Løb til frokost",
+    "distance_km": 10.01,
+    "type": "Run",
+    "first_seen": 1786534868
   }
 ]
