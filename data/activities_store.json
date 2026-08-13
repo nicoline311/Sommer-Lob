@@ -4012,5 +4012,32 @@
     "distance_km": 10.01,
     "type": "Run",
     "first_seen": 1786613934
+  },
+  {
+    "key": "53572b9940b85cf0548afa6b27e7abe470f386320bbecc7d0d06ea926ec38d66",
+    "club": "Stat Act",
+    "athlete": "Anika H.",
+    "name": "Blev udfordret i 5km",
+    "distance_km": 5.0,
+    "type": "Run",
+    "first_seen": 1786618536
+  },
+  {
+    "key": "9d51c1d63d19e9666e65409bfc9f965cda3093a4c891c9d27bf8e9c171336cde",
+    "club": "Stat Act",
+    "athlete": "Xenia K.",
+    "name": "Middagsløbetur",
+    "distance_km": 4.01,
+    "type": "Run",
+    "first_seen": 1786618536
+  },
+  {
+    "key": "b2c2e830e1901db5f3e1ec898d5089cd6c244c90f8f2424245fae1b6c8708a80",
+    "club": "Mat-Øk",
+    "athlete": "Christian K.",
+    "name": "Løb om morgenen",
+    "distance_km": 10.07,
+    "type": "Run",
+    "first_seen": 1786618538
   }
 ]
