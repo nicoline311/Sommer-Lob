@@ -4057,5 +4057,32 @@
     "distance_km": 7.79,
     "type": "Run",
     "first_seen": 1786630703
+  },
+  {
+    "key": "c29dd5b791c28812dd413900d2f7663f862220bb97039f11157531345710ccfe",
+    "club": "Stat Act",
+    "athlete": "Stine B.",
+    "name": "Sprinttræning",
+    "distance_km": 7.03,
+    "type": "Run",
+    "first_seen": 1786638323
+  },
+  {
+    "key": "8e6e4579fc21a1f0d4a92fad2072c0be266393636f2699f970fb324e5a8d022f",
+    "club": "Mat-Øk",
+    "athlete": "Adam L.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 10.13,
+    "type": "Run",
+    "first_seen": 1786638324
+  },
+  {
+    "key": "cc6fffc5f779d4cb858276efc3cefca42a98efe3034c076d9f5313982958bb2b",
+    "club": "Mat-Øk",
+    "athlete": "Amalie K.",
+    "name": "on the verge of quitting",
+    "distance_km": 9.01,
+    "type": "Run",
+    "first_seen": 1786638324
   }
 ]
