@@ -4084,5 +4084,14 @@
     "distance_km": 9.01,
     "type": "Run",
     "first_seen": 1786638324
+  },
+  {
+    "key": "ba67eec94e51f3a92677cb17878e73a9fadb1350bbaff9eb598ff12d3afccde5",
+    "club": "Mat-Øk",
+    "athlete": "Emilie Bæk C.",
+    "name": "Afternoon Run",
+    "distance_km": 6.15,
+    "type": "Run",
+    "first_seen": 1786642037
   }
 ]
