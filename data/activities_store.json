@@ -4039,5 +4039,23 @@
     "distance_km": 10.07,
     "type": "Run",
     "first_seen": 1786618538
+  },
+  {
+    "key": "913d20ea6dda9a2ec473b61b5ffc726da9c3ef9e94e32fd733890e5d9cefcbe8",
+    "club": "Mat-Øk",
+    "athlete": "Max R.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 5.3,
+    "type": "Run",
+    "first_seen": 1786630703
+  },
+  {
+    "key": "f867b2ab3f0316ba90481afaaec0923b138a6b8e1b140a3296649ba5f5daed8a",
+    "club": "Mat-Øk",
+    "athlete": "Emilie M.",
+    "name": "Med damerne på tur igen igen",
+    "distance_km": 7.79,
+    "type": "Run",
+    "first_seen": 1786630703
   }
 ]
