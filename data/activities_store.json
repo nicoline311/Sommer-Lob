@@ -4129,5 +4129,41 @@
     "distance_km": 5.53,
     "type": "Run",
     "first_seen": 1786649600
+  },
+  {
+    "key": "e37293f6e6addaef62dc1822395a009f54ab11c6017c971adb398d2872d24438",
+    "club": "Stat Act",
+    "athlete": "Mathias F.",
+    "name": "Løb til frokost",
+    "distance_km": 6.41,
+    "type": "Run",
+    "first_seen": 1786704711
+  },
+  {
+    "key": "f0d26114ff5d302a0cbce405e3f3fb8de498137a16bc33d4f8a6682694a17857",
+    "club": "Stat Act",
+    "athlete": "Xenia K.",
+    "name": "Morgenløbetur",
+    "distance_km": 8.69,
+    "type": "Run",
+    "first_seen": 1786704711
+  },
+  {
+    "key": "9e51e71377b7e800b99e277fae90c5b4eaef73f576fde503e9a6b88dbe662b13",
+    "club": "Stat Act",
+    "athlete": "Line M.",
+    "name": "Morning Run",
+    "distance_km": 10.25,
+    "type": "Run",
+    "first_seen": 1786704711
+  },
+  {
+    "key": "3046e84f29672ba8013a7d2ee4774ee2f6adb8ad5482bab3b3618ced1471c952",
+    "club": "Mat-Øk",
+    "athlete": "Sebastian Coriani H.",
+    "name": "Løb om natten",
+    "distance_km": 4.25,
+    "type": "Run",
+    "first_seen": 1786704713
   }
 ]
