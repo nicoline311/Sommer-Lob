@@ -4192,5 +4192,14 @@
     "distance_km": 5.12,
     "type": "Run",
     "first_seen": 1786716679
+  },
+  {
+    "key": "2506b9428544fc949e9408268f5d5c6dba7140a1bf149aa9c46057d28411d38e",
+    "club": "Mat-Øk",
+    "athlete": "Oscar H.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 5.01,
+    "type": "Run",
+    "first_seen": 1786720439
   }
 ]
