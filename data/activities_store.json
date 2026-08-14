@@ -4201,5 +4201,14 @@
     "distance_km": 5.01,
     "type": "Run",
     "first_seen": 1786720439
+  },
+  {
+    "key": "2e777b86e4c362a1693314ee1dc726815ffbddb711cf24e6c241a673fc48509a",
+    "club": "Mat-Øk",
+    "athlete": "August R.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 8.17,
+    "type": "Run",
+    "first_seen": 1786723975
   }
 ]
