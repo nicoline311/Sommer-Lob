@@ -4165,5 +4165,14 @@
     "distance_km": 4.25,
     "type": "Run",
     "first_seen": 1786704713
+  },
+  {
+    "key": "703f049e46e1aed85b1ca5b10d0f74d7c2fce5c775632aa424a9daae9a88ba4a",
+    "club": "Mat-Øk",
+    "athlete": "Thilde D.",
+    "name": "Middagsløbetur",
+    "distance_km": 5.5,
+    "type": "Run",
+    "first_seen": 1786707525
   }
 ]
