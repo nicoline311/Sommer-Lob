@@ -4318,5 +4318,14 @@
     "distance_km": 9.15,
     "type": "Run",
     "first_seen": 1786812484
+  },
+  {
+    "key": "1ad4803dbbaf51f2203c938b276d0848f0e28771bc4051022ec540fd85dcaba8",
+    "club": "Mat-Øk",
+    "athlete": "Sebastian Coriani H.",
+    "name": "Tømmermændstur",
+    "distance_km": 7.51,
+    "type": "Run",
+    "first_seen": 1786821408
   }
 ]
