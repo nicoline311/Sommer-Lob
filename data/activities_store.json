@@ -4291,5 +4291,23 @@
     "distance_km": 11.51,
     "type": "Run",
     "first_seen": 1786805160
+  },
+  {
+    "key": "6047c0537acd26dba85091b917b33b3b47dd8cc1ef20ec35e151fb5c35aa4c12",
+    "club": "Stat Act",
+    "athlete": "Lucas X.",
+    "name": "Afternoon Run",
+    "distance_km": 6.01,
+    "type": "Run",
+    "first_seen": 1786808578
+  },
+  {
+    "key": "d624db8f4464c27fb458684ddcc66c6f0dbc13caf0dc4b142e5f0383fc86c9bf",
+    "club": "Mat-Øk",
+    "athlete": "Lucas X.",
+    "name": "Afternoon Run",
+    "distance_km": 6.01,
+    "type": "Run",
+    "first_seen": 1786808579
   }
 ]
