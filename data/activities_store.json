@@ -4228,5 +4228,14 @@
     "distance_km": 3.93,
     "type": "Run",
     "first_seen": 1786740843
+  },
+  {
+    "key": "97afa0e3ca98ecf1c17cdb8de0eb8af7f24ec93b191026af13d900c35f9f1a23",
+    "club": "Mat-Øk",
+    "athlete": "Emilie Bæk C.",
+    "name": "Hyggetur m fam",
+    "distance_km": 5.12,
+    "type": "Run",
+    "first_seen": 1786787304
   }
 ]
