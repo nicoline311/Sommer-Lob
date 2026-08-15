@@ -4255,5 +4255,14 @@
     "distance_km": 15.01,
     "type": "Run",
     "first_seen": 1786796516
+  },
+  {
+    "key": "1c2dce4d60b592cc31c4e416d6664c9076764db95b2824bf99e3b5ec7ee0aeba",
+    "club": "Mat-Øk",
+    "athlete": "Johannes L.",
+    "name": "Eftermiddagsløbetur",
+    "distance_km": 10.0,
+    "type": "Run",
+    "first_seen": 1786799174
   }
 ]
