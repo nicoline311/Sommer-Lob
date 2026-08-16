@@ -4390,5 +4390,14 @@
     "distance_km": 9.05,
     "type": "Run",
     "first_seen": 1786896969
+  },
+  {
+    "key": "c1020c6694485474c51507b90ff31b5995286ff27c1b6a1aea36d577b93d883f",
+    "club": "Mat-Øk",
+    "athlete": "Max R.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 41.82,
+    "type": "Run",
+    "first_seen": 1786898898
   }
 ]
