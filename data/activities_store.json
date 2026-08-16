@@ -4408,5 +4408,14 @@
     "distance_km": 6.98,
     "type": "Run",
     "first_seen": 1786902116
+  },
+  {
+    "key": "b7187ca4d96471a8b0292e2f3ffb0a14c0892e20ace0755a544b4489be4a561b",
+    "club": "Stat Act",
+    "athlete": "Signe J.",
+    "name": "Løb om aftenen",
+    "distance_km": 4.01,
+    "type": "Run",
+    "first_seen": 1786906416
   }
 ]
