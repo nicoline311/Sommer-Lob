@@ -4372,5 +4372,14 @@
     "distance_km": 14.71,
     "type": "Run",
     "first_seen": 1786891582
+  },
+  {
+    "key": "1be461c0639a62a0b27ddb2606b7b01918cc554f768b2987469b01e088799bda",
+    "club": "Mat-Øk",
+    "athlete": "Michala J.",
+    "name": "Eftermiddagsløbetur",
+    "distance_km": 4.16,
+    "type": "Run",
+    "first_seen": 1786893266
   }
 ]
