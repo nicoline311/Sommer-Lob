@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786888277,
+  "generated_at": 1786889715,
   "competition_start": "2026-07-01",
   "clubs": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "club": "Stat Act",
-      "total_km": 1841.3
+      "total_km": 1843.5
     }
   ],
   "athletes": [
@@ -50,7 +50,7 @@
     {
       "athlete": "Daniel S.",
       "club": "Stat Act",
-      "total_km": 157.7
+      "total_km": 160.0
     },
     {
       "athlete": "Amalie K.",
