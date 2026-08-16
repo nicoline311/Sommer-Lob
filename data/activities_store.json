@@ -4381,5 +4381,14 @@
     "distance_km": 4.16,
     "type": "Run",
     "first_seen": 1786893266
+  },
+  {
+    "key": "dd88a6662d6ca864fe5849484d4da0165c1fea585aedfe906e4f7e90883a27a8",
+    "club": "Mat-Øk",
+    "athlete": "Adam L.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 9.05,
+    "type": "Run",
+    "first_seen": 1786896969
   }
 ]
