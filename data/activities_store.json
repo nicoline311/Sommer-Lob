@@ -4453,5 +4453,14 @@
     "distance_km": 11.16,
     "type": "Run",
     "first_seen": 1786911209
+  },
+  {
+    "key": "9d49b60b070a6c3e20f8724ac67a137999e5ed3323cdf4b423c21eeee08d81cd",
+    "club": "Mat-Øk",
+    "athlete": "Max F.",
+    "name": "Middagsløbetur",
+    "distance_km": 10.09,
+    "type": "Run",
+    "first_seen": 1786965534
   }
 ]
