@@ -4480,5 +4480,23 @@
     "distance_km": 7.11,
     "type": "Run",
     "first_seen": 1786972891
+  },
+  {
+    "key": "abf85e684c8cb7a6083026f274feab7870931cf4b369c1db9c73849ae70a5d6e",
+    "club": "Stat Act",
+    "athlete": "Signe J.",
+    "name": "Afternoon Run",
+    "distance_km": 6.83,
+    "type": "Run",
+    "first_seen": 1786975178
+  },
+  {
+    "key": "69b3ce54e3a1c3198c4327d6ffdf300d536dd49973de5b04fab76a2e7d1a6c62",
+    "club": "Stat Act",
+    "athlete": "Anika H.",
+    "name": "Internt social run",
+    "distance_km": 5.0,
+    "type": "Run",
+    "first_seen": 1786975178
   }
 ]
