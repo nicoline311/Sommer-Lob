@@ -4561,5 +4561,14 @@
     "distance_km": 13.24,
     "type": "Run",
     "first_seen": 1786989173
+  },
+  {
+    "key": "c40967dfa17c79a9e742b404080dbff328fda2f7c408f36cdbc555e84737d8b7",
+    "club": "Mat-Øk",
+    "athlete": "Christian K.",
+    "name": "Løb om morgenen",
+    "distance_km": 7.6,
+    "type": "Run",
+    "first_seen": 1786993648
   }
 ]
