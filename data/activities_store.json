@@ -4462,5 +4462,23 @@
     "distance_km": 10.09,
     "type": "Run",
     "first_seen": 1786965534
+  },
+  {
+    "key": "a9523b8332e5ed9ce7d93c5eca3426d37fa81fc5fdd4d86430ee4bf7ac57cd9e",
+    "club": "Stat Act",
+    "athlete": "silas B.",
+    "name": "Sommerhusløbetur",
+    "distance_km": 5.0,
+    "type": "Run",
+    "first_seen": 1786972891
+  },
+  {
+    "key": "7404a7862a52aae9a62186797780cbbac71b0e50a9f87f66103a1a492c1b3ce8",
+    "club": "Stat Act",
+    "athlete": "Lucas B.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 7.11,
+    "type": "Run",
+    "first_seen": 1786972891
   }
 ]
