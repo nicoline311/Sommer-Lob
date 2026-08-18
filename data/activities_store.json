@@ -4687,5 +4687,14 @@
     "distance_km": 13.34,
     "type": "Run",
     "first_seen": 1787073774
+  },
+  {
+    "key": "f0044df2984eb079f83ee6c3cb794f4fb847ce9a78b86943c3b9894f4daaad17",
+    "club": "Mat-Øk",
+    "athlete": "Emilie Bæk C.",
+    "name": "Løb om aftenen",
+    "distance_km": 6.65,
+    "type": "Run",
+    "first_seen": 1787077577
   }
 ]
