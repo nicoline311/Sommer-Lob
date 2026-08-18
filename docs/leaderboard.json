@@ -1,10 +1,10 @@
 {
-  "generated_at": 1787079976,
+  "generated_at": 1787082448,
   "competition_start": "2026-07-01",
   "clubs": [
     {
       "club": "Mat-Øk",
-      "total_km": 2400.9
+      "total_km": 2413.0
     },
     {
       "club": "Stat Act",
@@ -30,7 +30,7 @@
     {
       "athlete": "Sebastian Coriani H.",
       "club": "Mat-Øk",
-      "total_km": 236.7
+      "total_km": 248.7
     },
     {
       "athlete": "Stine B.",

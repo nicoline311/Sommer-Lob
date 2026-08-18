@@ -4696,5 +4696,14 @@
     "distance_km": 6.65,
     "type": "Run",
     "first_seen": 1787077577
+  },
+  {
+    "key": "c15b4d9790b4fea99d81adf3090b41b21488e307c487baef4f53911f28f62a48",
+    "club": "Mat-Øk",
+    "athlete": "Sebastian Coriani H.",
+    "name": "Løb om aftenen",
+    "distance_km": 12.04,
+    "type": "Run",
+    "first_seen": 1787082448
   }
 ]
