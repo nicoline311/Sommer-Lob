@@ -4597,5 +4597,14 @@
     "distance_km": 4.01,
     "type": "Run",
     "first_seen": 1787056193
+  },
+  {
+    "key": "cb3538c8eaddd33a1f142e99d5eedbde6d0ed43c686f606bf7f593f38b607a66",
+    "club": "Mat-Øk",
+    "athlete": "Carl Legart B.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 5.16,
+    "type": "Run",
+    "first_seen": 1787065198
   }
 ]
