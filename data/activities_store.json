@@ -4642,5 +4642,23 @@
     "distance_km": 10.09,
     "type": "Run",
     "first_seen": 1787070142
+  },
+  {
+    "key": "0fa33e3866e89a93046d1f3bed9d07d2ff5937d1fa05380226d078bc79be6e79",
+    "club": "Stat Act",
+    "athlete": "Nicoline N.",
+    "name": "Evening Run",
+    "distance_km": 2.34,
+    "type": "Run",
+    "first_seen": 1787072204
+  },
+  {
+    "key": "c61a2309bc14c9d0a357c7831aba0424be82e2e95cc1360151c3b342a6a8b9c4",
+    "club": "Mat-Øk",
+    "athlete": "Nicoline N.",
+    "name": "Evening Run",
+    "distance_km": 2.34,
+    "type": "Run",
+    "first_seen": 1787072206
   }
 ]
