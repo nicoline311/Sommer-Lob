@@ -4732,5 +4732,14 @@
     "distance_km": 5.13,
     "type": "Run",
     "first_seen": 1787087784
+  },
+  {
+    "key": "eac583385e119e2a0bfd6421bb00fa95ab5af54b78354ec2d46bb0ff7097cce3",
+    "club": "Mat-Øk",
+    "athlete": "Sebastian Coriani H.",
+    "name": "Pacer Aksel lidt i dag",
+    "distance_km": 12.04,
+    "type": "Run",
+    "first_seen": 1787091276
   }
 ]
