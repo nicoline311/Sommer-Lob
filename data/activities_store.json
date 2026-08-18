@@ -4579,5 +4579,14 @@
     "distance_km": 41.82,
     "type": "Run",
     "first_seen": 1787032376
+  },
+  {
+    "key": "5550dc28c75113070edada96d4974c16c97e0aabc58eaf1d7b5077d3310662cc",
+    "club": "Stat Act",
+    "athlete": "Mathias F.",
+    "name": "Morgenløbetur",
+    "distance_km": 5.1,
+    "type": "Run",
+    "first_seen": 1787043726
   }
 ]
