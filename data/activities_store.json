@@ -4588,5 +4588,14 @@
     "distance_km": 5.1,
     "type": "Run",
     "first_seen": 1787043726
+  },
+  {
+    "key": "315e4d9b00be8cfbcff2d0808a2c658d0ab05fde18863a44a1a99224152c37ca",
+    "club": "Stat Act",
+    "athlete": "Xenia K.",
+    "name": "Eftermiddagsløbetur",
+    "distance_km": 4.01,
+    "type": "Run",
+    "first_seen": 1787056193
   }
 ]
