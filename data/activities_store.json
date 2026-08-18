@@ -4714,5 +4714,23 @@
     "distance_km": 2.31,
     "type": "Run",
     "first_seen": 1787085996
+  },
+  {
+    "key": "326eec78f35bdffc059a0f1e3e085da9b8e3b85e6ee3d109784868dadde66fda",
+    "club": "Stat Act",
+    "athlete": "Daniel S.",
+    "name": "flyver✈️",
+    "distance_km": 10.01,
+    "type": "Run",
+    "first_seen": 1787087782
+  },
+  {
+    "key": "b51c060f41b79cbe24033e9216702b1916fe7b374feaaf862e87b0a8b0f1e35c",
+    "club": "Mat-Øk",
+    "athlete": "Max F.",
+    "name": "Løb med Emilie 🏃‍♀️ 💨",
+    "distance_km": 5.13,
+    "type": "Run",
+    "first_seen": 1787087784
   }
 ]
