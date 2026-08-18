@@ -4615,5 +4615,32 @@
     "distance_km": 6.51,
     "type": "Run",
     "first_seen": 1787067403
+  },
+  {
+    "key": "4939e1326e3f1ca200c0a4d85ed097c27229f336ab755506861ba3968ed2040d",
+    "club": "Stat Act",
+    "athlete": "silas B.",
+    "name": "Minigolf run",
+    "distance_km": 10.09,
+    "type": "Run",
+    "first_seen": 1787070141
+  },
+  {
+    "key": "e894003aa69b6d506f2936710dc8ae037deb0723193a5cba115e77955697409f",
+    "club": "Mat-Øk",
+    "athlete": "Magnus S.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 5.01,
+    "type": "Run",
+    "first_seen": 1787070142
+  },
+  {
+    "key": "9b67874a81e62f9c1e5ae1b4eec032598b0e6af289edb8925c39a9b6a76ae412",
+    "club": "Mat-Øk",
+    "athlete": "August R.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 10.09,
+    "type": "Run",
+    "first_seen": 1787070142
   }
 ]
