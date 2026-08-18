@@ -4570,5 +4570,14 @@
     "distance_km": 7.6,
     "type": "Run",
     "first_seen": 1786993648
+  },
+  {
+    "key": "cee97106fb0c0847ce162a033abe78dd5272e9cb21f60e8bdce40828c59f7e25",
+    "club": "Mat-Øk",
+    "athlete": "Max R.",
+    "name": "Ironman cph -Run",
+    "distance_km": 41.82,
+    "type": "Run",
+    "first_seen": 1787032376
   }
 ]
