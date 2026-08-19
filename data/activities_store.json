@@ -4840,5 +4840,14 @@
     "distance_km": 4.84,
     "type": "Run",
     "first_seen": 1787161691
+  },
+  {
+    "key": "474aa33764909d8bb4b4314970ee4b7072270ca0124dc754662fd3a06954fdbe",
+    "club": "Stat Act",
+    "athlete": "Line M.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 10.1,
+    "type": "Run",
+    "first_seen": 1787163755
   }
 ]
