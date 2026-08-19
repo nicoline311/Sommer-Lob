@@ -4849,5 +4849,14 @@
     "distance_km": 10.1,
     "type": "Run",
     "first_seen": 1787163755
+  },
+  {
+    "key": "23694086f88239948dc945a0625527030b2e215a123ebddc81ea3527c0f11e17",
+    "club": "Mat-Øk",
+    "athlete": "Jeppe S.",
+    "name": "Løb om aftenen",
+    "distance_km": 6.06,
+    "type": "Run",
+    "first_seen": 1787166067
   }
 ]
