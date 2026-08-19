@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787156523,
+  "generated_at": 1787158470,
   "competition_start": "2026-07-01",
   "clubs": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "club": "Stat Act",
-      "total_km": 1962.9
+      "total_km": 1976.4
     }
   ],
   "athletes": [
@@ -30,7 +30,7 @@
     {
       "athlete": "Frederik Nexø K.",
       "club": "Stat Act",
-      "total_km": 251.3
+      "total_km": 264.8
     },
     {
       "athlete": "Stine B.",
