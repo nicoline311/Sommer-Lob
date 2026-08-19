@@ -4813,5 +4813,32 @@
     "distance_km": 13.56,
     "type": "Run",
     "first_seen": 1787158468
+  },
+  {
+    "key": "4e025a4ed10eccc4527ddd7eed607c00e39755820491d0b2356849f93e15adf9",
+    "club": "Mat-Øk",
+    "athlete": "Oscar H.",
+    "name": "Løb om aftenen",
+    "distance_km": 4.22,
+    "type": "Run",
+    "first_seen": 1787161691
+  },
+  {
+    "key": "d548fd17b02ea7ff84b168b13833592b0b9b7217d319e4279e3682e96dfd0f3b",
+    "club": "Mat-Øk",
+    "athlete": "Lucas S.",
+    "name": "Løb om aftenen",
+    "distance_km": 4.03,
+    "type": "Run",
+    "first_seen": 1787161691
+  },
+  {
+    "key": "83c6ff4d9378065f7b507b6c237db2a5a5a2886fd29b74316236ce9adcee34bc",
+    "club": "Mat-Øk",
+    "athlete": "Oscar H.",
+    "name": "Nike Run Club: Fly With Monas",
+    "distance_km": 4.84,
+    "type": "Run",
+    "first_seen": 1787161691
   }
 ]
