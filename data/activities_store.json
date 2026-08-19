@@ -4750,5 +4750,14 @@
     "distance_km": 6.11,
     "type": "Run",
     "first_seen": 1787133407
+  },
+  {
+    "key": "4b0a983cd2d60bf5ee0f8f3afba55d0a866cc9e5d97d19d85080343969709878",
+    "club": "Mat-Øk",
+    "athlete": "Amalie K.",
+    "name": "Afternoon Run",
+    "distance_km": 5.03,
+    "type": "Run",
+    "first_seen": 1787142634
   }
 ]
