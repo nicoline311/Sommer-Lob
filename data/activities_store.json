@@ -4768,5 +4768,23 @@
     "distance_km": 5.12,
     "type": "Run",
     "first_seen": 1787149495
+  },
+  {
+    "key": "534811014b0762da30ac739b2c52ea5feee0afa3774d634d3013d3b1c807163e",
+    "club": "Stat Act",
+    "athlete": "Emil S.",
+    "name": "Eftermiddags6k",
+    "distance_km": 6.01,
+    "type": "Run",
+    "first_seen": 1787151626
+  },
+  {
+    "key": "b2c50bebaf8f05f177e609e881bf769fd3fd53915614142b935b1e177701687e",
+    "club": "Mat-Øk",
+    "athlete": "Sebastian Coriani H.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 10.01,
+    "type": "Run",
+    "first_seen": 1787151627
   }
 ]
