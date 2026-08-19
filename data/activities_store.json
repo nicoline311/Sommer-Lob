@@ -4786,5 +4786,23 @@
     "distance_km": 10.01,
     "type": "Run",
     "first_seen": 1787151627
+  },
+  {
+    "key": "06f753ff5c86893e5d4c9f2b9d52eec0141f3590b4010ab243372e0cf117dc06",
+    "club": "Stat Act",
+    "athlete": "Christoffer T.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 4.24,
+    "type": "Run",
+    "first_seen": 1787156521
+  },
+  {
+    "key": "a944d9f23328f24ef75c77ca1b967f0196e8aa82fd0c51a138050f9de5955f6a",
+    "club": "Stat Act",
+    "athlete": "Amalie A.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 5.18,
+    "type": "Run",
+    "first_seen": 1787156521
   }
 ]
