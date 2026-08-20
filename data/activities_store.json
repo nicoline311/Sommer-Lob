@@ -4939,5 +4939,32 @@
     "distance_km": 3.87,
     "type": "Run",
     "first_seen": 1787253012
+  },
+  {
+    "key": "88b1ae212690b951da4044f29e0ff8ee8fb60be079e12b83d2a87b92e70a95a9",
+    "club": "Stat Act",
+    "athlete": "Lucas X.",
+    "name": "Night Run",
+    "distance_km": 6.11,
+    "type": "Run",
+    "first_seen": 1787255641
+  },
+  {
+    "key": "657edce7a130c6fc4a9af930407b8001255664bebfc4229208b21739841ba906",
+    "club": "Mat-Øk",
+    "athlete": "Lucas X.",
+    "name": "Night Run",
+    "distance_km": 6.11,
+    "type": "Run",
+    "first_seen": 1787255642
+  },
+  {
+    "key": "fdf793e5f7f5636f7e7b0686f4bce0a77fc34fa1cbc259007a90604d6d9c650e",
+    "club": "Mat-Øk",
+    "athlete": "Jens Christian K.",
+    "name": "Første løbetur ved den nye lejlighed🏃🏻",
+    "distance_km": 3.87,
+    "type": "Run",
+    "first_seen": 1787255642
   }
 ]
