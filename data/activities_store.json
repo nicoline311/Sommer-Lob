@@ -4921,5 +4921,23 @@
     "distance_km": 8.01,
     "type": "Run",
     "first_seen": 1787246503
+  },
+  {
+    "key": "517d12f382ced39cb76b3ff5e9f608a2fc7158b09a90c489edbb1ecaf67e2f8b",
+    "club": "Mat-Øk",
+    "athlete": "Emilie M.",
+    "name": "Med Jens på tur ude og ordne ærinder",
+    "distance_km": 3.97,
+    "type": "Run",
+    "first_seen": 1787253012
+  },
+  {
+    "key": "5d191c62ba2a3d5d1f17ec5a83bcc9c4c22d7d98eed7492d8d1dc4bfcac56cc0",
+    "club": "Mat-Øk",
+    "athlete": "Jens Christian K.",
+    "name": "Første løbetur ved den nye lejlighed🏃🏻❤️",
+    "distance_km": 3.87,
+    "type": "Run",
+    "first_seen": 1787253012
   }
 ]
