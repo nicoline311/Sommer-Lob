@@ -4858,5 +4858,14 @@
     "distance_km": 6.06,
     "type": "Run",
     "first_seen": 1787166067
+  },
+  {
+    "key": "d1c12a649e1b95e546eeca5287b44d306e65d063ab896c19232fe6fc7165828b",
+    "club": "Stat Act",
+    "athlete": "Xenia K.",
+    "name": "Morgenløbetur",
+    "distance_km": 5.12,
+    "type": "Run",
+    "first_seen": 1787219924
   }
 ]
