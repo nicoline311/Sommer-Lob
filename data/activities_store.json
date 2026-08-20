@@ -4885,5 +4885,14 @@
     "distance_km": 5.04,
     "type": "Run",
     "first_seen": 1787233209
+  },
+  {
+    "key": "fef327a11e43ec0163a579b93828a0ab0b86881c2faa863ea8cdd4834e404c78",
+    "club": "Stat Act",
+    "athlete": "Mathias F.",
+    "name": "Eftermiddagsløbetur",
+    "distance_km": 10.01,
+    "type": "Run",
+    "first_seen": 1787236065
   }
 ]
