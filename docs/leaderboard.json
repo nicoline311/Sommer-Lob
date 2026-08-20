@@ -1,10 +1,10 @@
 {
-  "generated_at": 1787243634,
+  "generated_at": 1787246503,
   "competition_start": "2026-07-01",
   "clubs": [
     {
       "club": "Mat-Øk",
-      "total_km": 2515.0
+      "total_km": 2523.0
     },
     {
       "club": "Stat Act",
@@ -45,7 +45,7 @@
     {
       "athlete": "August R.",
       "club": "Mat-Øk",
-      "total_km": 175.2
+      "total_km": 183.2
     },
     {
       "athlete": "Daniel S.",
