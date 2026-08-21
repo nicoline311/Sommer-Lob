@@ -5047,5 +5047,14 @@
     "distance_km": 12.01,
     "type": "Run",
     "first_seen": 1787329772
+  },
+  {
+    "key": "c646a0c363cb6f70165d55b6bcaf30947f811f0daa792befbad33a20d7e235f0",
+    "club": "Stat Act",
+    "athlete": "Frederik L.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 4.8,
+    "type": "Run",
+    "first_seen": 1787336758
   }
 ]

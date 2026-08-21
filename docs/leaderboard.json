@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787334843,
+  "generated_at": 1787336759,
   "competition_start": "2026-07-01",
   "clubs": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "club": "Stat Act",
-      "total_km": 2051.5
+      "total_km": 2056.3
     }
   ],
   "athletes": [
@@ -148,14 +148,14 @@
       "total_km": 43.8
     },
     {
+      "athlete": "Frederik L.",
+      "club": "Stat Act",
+      "total_km": 42.2
+    },
+    {
       "athlete": "Jeppe S.",
       "club": "Mat-Øk",
       "total_km": 38.1
-    },
-    {
-      "athlete": "Frederik L.",
-      "club": "Stat Act",
-      "total_km": 37.4
     },
     {
       "athlete": "Emil S.",
