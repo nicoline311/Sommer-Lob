@@ -4966,5 +4966,23 @@
     "distance_km": 3.87,
     "type": "Run",
     "first_seen": 1787255642
+  },
+  {
+    "key": "84d84bb100f91797b2530863e6bb7a611718882fae98b9556dc648bda03b0f9e",
+    "club": "Mat-Øk",
+    "athlete": "Christian K.",
+    "name": "Morning Run",
+    "distance_km": 5.0,
+    "type": "Run",
+    "first_seen": 1787301040
+  },
+  {
+    "key": "f84a6a30244d06332110c8c40b1394d4b23899e35044c70ed5ebc57e193fd76b",
+    "club": "Mat-Øk",
+    "athlete": "Magnus S.",
+    "name": "Morning Run",
+    "distance_km": 5.03,
+    "type": "Run",
+    "first_seen": 1787301040
   }
 ]
