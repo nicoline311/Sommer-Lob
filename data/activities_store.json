@@ -4984,5 +4984,14 @@
     "distance_km": 5.03,
     "type": "Run",
     "first_seen": 1787301040
+  },
+  {
+    "key": "472a86ccef522b0a99432317ab5b73b6db5f74ea063b890e63626861574f8ec8",
+    "club": "Mat-Øk",
+    "athlete": "Amalie K.",
+    "name": "feeling younger than ever #25k 4 25y",
+    "distance_km": 25.0,
+    "type": "Run",
+    "first_seen": 1787309734
   }
 ]
