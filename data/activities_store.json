@@ -4993,5 +4993,23 @@
     "distance_km": 25.0,
     "type": "Run",
     "first_seen": 1787309734
+  },
+  {
+    "key": "c681795602609b737deb938c049053747902cc62dc645f507d95b9b5c5a3eaa2",
+    "club": "Stat Act",
+    "athlete": "silas B.",
+    "name": "Norhavn pt 2",
+    "distance_km": 10.51,
+    "type": "Run",
+    "first_seen": 1787315470
+  },
+  {
+    "key": "ce7d2a48d77182773be56d3c9806234af80665e86cfec67ee97c83e5e6b49a8e",
+    "club": "Stat Act",
+    "athlete": "Lucas B.",
+    "name": "Løb til frokost",
+    "distance_km": 13.0,
+    "type": "Run",
+    "first_seen": 1787315470
   }
 ]
