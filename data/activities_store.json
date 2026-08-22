@@ -5092,5 +5092,23 @@
     "distance_km": 15.01,
     "type": "Run",
     "first_seen": 1787393729
+  },
+  {
+    "key": "19878be3d78681b45dd4af8adeeae6a008c941655f75fa60049862dcdd2f811e",
+    "club": "Mat-Øk",
+    "athlete": "Emilie Bæk C.",
+    "name": "Tømmermænds tur m Frida",
+    "distance_km": 5.13,
+    "type": "Run",
+    "first_seen": 1787408036
+  },
+  {
+    "key": "701dd57219e06748f2c60a53f291729676499b0ebdd6b49b96d220773965c495",
+    "club": "Mat-Øk",
+    "athlete": "Emilie Bæk C.",
+    "name": "Løb om aftenen",
+    "distance_km": 5.03,
+    "type": "Run",
+    "first_seen": 1787408036
   }
 ]
