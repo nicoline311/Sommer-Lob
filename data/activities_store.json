@@ -5065,5 +5065,23 @@
     "distance_km": 2.5,
     "type": "Run",
     "first_seen": 1787379985
+  },
+  {
+    "key": "5cc921e54c13e5f4f0f26af39cc15354667d0611d045bbd5cc1dae486de060b9",
+    "club": "Stat Act",
+    "athlete": "Xenia K.",
+    "name": "Morgenløbetur",
+    "distance_km": 4.31,
+    "type": "Run",
+    "first_seen": 1787386820
+  },
+  {
+    "key": "26b3db07cfaf245898bce98ae527c0907f2bfa83c846d89636ef331033ed720c",
+    "club": "Stat Act",
+    "athlete": "Line M.",
+    "name": "Løb om morgenen",
+    "distance_km": 10.5,
+    "type": "Run",
+    "first_seen": 1787386820
   }
 ]
