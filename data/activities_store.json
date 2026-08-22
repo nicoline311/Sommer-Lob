@@ -5110,5 +5110,14 @@
     "distance_km": 5.03,
     "type": "Run",
     "first_seen": 1787408036
+  },
+  {
+    "key": "ac5259130103aa839254c513168993829b45f2e509720c7912db2283cf354fe5",
+    "club": "Stat Act",
+    "athlete": "Willads A.",
+    "name": "Afternoon Run",
+    "distance_km": 6.63,
+    "type": "Run",
+    "first_seen": 1787411616
   }
 ]
