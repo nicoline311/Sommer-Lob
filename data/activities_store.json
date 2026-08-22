@@ -5056,5 +5056,14 @@
     "distance_km": 4.8,
     "type": "Run",
     "first_seen": 1787336758
+  },
+  {
+    "key": "2e4d2aa38044c4dd60a0a594b28a5b767096cdc0db73613b61172c61ae9ad4f7",
+    "club": "Stat Act",
+    "athlete": "Stine B.",
+    "name": "Shakeout",
+    "distance_km": 2.5,
+    "type": "Run",
+    "first_seen": 1787379985
   }
 ]
