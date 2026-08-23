@@ -5254,5 +5254,14 @@
     "distance_km": 6.67,
     "type": "Run",
     "first_seen": 1787512654
+  },
+  {
+    "key": "c5eda5abc0a6442964551486c9a7449708b1ef18d1a5d94d65803cc8b6694946",
+    "club": "Mat-Øk",
+    "athlete": "Yi H.",
+    "name": "Night Run",
+    "distance_km": 5.67,
+    "type": "Run",
+    "first_seen": 1787517962
   }
 ]
