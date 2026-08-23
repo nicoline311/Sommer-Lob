@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787499870,
+  "generated_at": 1787501762,
   "competition_start": "2026-07-01",
   "clubs": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "club": "Stat Act",
-      "total_km": 2154.2
+      "total_km": 2169.4
     }
   ],
   "athletes": [
@@ -18,14 +18,14 @@
       "total_km": 471.2
     },
     {
+      "athlete": "Frederik Nexø K.",
+      "club": "Stat Act",
+      "total_km": 299.0
+    },
+    {
       "athlete": "Sebastian Coriani H.",
       "club": "Mat-Øk",
       "total_km": 292.0
-    },
-    {
-      "athlete": "Frederik Nexø K.",
-      "club": "Stat Act",
-      "total_km": 291.9
     },
     {
       "athlete": "Max R.",
@@ -90,7 +90,7 @@
     {
       "athlete": "Lucas B.",
       "club": "Stat Act",
-      "total_km": 120.3
+      "total_km": 128.4
     },
     {
       "athlete": "Magnus S.",
