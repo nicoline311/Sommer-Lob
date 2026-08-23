@@ -5128,5 +5128,23 @@
     "distance_km": 14.02,
     "type": "Run",
     "first_seen": 1787422705
+  },
+  {
+    "key": "e253f1b9c9cfe3160c76057c3576cf53cfaedc2c8c7fe3262191872d4117dd71",
+    "club": "Stat Act",
+    "athlete": "Line M.",
+    "name": "Morning Run",
+    "distance_km": 16.04,
+    "type": "Run",
+    "first_seen": 1787478623
+  },
+  {
+    "key": "23546fbe839b57baee181fb100090b8ac25abeb33a51dcefc0b4e8c0b3373168",
+    "club": "Mat-Øk",
+    "athlete": "Carl Legart B.",
+    "name": "Løb om morgenen",
+    "distance_km": 15.01,
+    "type": "Run",
+    "first_seen": 1787478625
   }
 ]
