@@ -5164,5 +5164,23 @@
     "distance_km": 9.95,
     "type": "Run",
     "first_seen": 1787483655
+  },
+  {
+    "key": "5dceee4285b82698c1f849d0338beedc98c05feecd7014481060b26dddca5350",
+    "club": "Stat Act",
+    "athlete": "silas B.",
+    "name": "3x 10 k in a week",
+    "distance_km": 10.04,
+    "type": "Run",
+    "first_seen": 1787493132
+  },
+  {
+    "key": "be6d7642bb8fb685d874f759e5f05e99c1412d55cee12036635ee7f16a46b192",
+    "club": "Mat-Øk",
+    "athlete": "Johannes L.",
+    "name": "Eftermiddagsløbetur",
+    "distance_km": 5.5,
+    "type": "Run",
+    "first_seen": 1787493133
   }
 ]
