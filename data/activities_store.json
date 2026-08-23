@@ -5182,5 +5182,23 @@
     "distance_km": 5.5,
     "type": "Run",
     "first_seen": 1787493133
+  },
+  {
+    "key": "d8f6b692dbd0cb7d99b5a2c8d8559f55d932ec0987516f9c199966034b84071a",
+    "club": "Stat Act",
+    "athlete": "Amalie A.",
+    "name": "Afternoon Run",
+    "distance_km": 12.06,
+    "type": "Run",
+    "first_seen": 1787498085
+  },
+  {
+    "key": "965ce02fadc4547d56a45b3721dee0be65a7cf1c01178930a22d1c2a6ac5403d",
+    "club": "Stat Act",
+    "athlete": "Stine B.",
+    "name": "Silkeborg Tri - løb",
+    "distance_km": 20.77,
+    "type": "Run",
+    "first_seen": 1787498085
   }
 ]
