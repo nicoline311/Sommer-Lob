@@ -5317,5 +5317,14 @@
     "distance_km": 5.26,
     "type": "Run",
     "first_seen": 1787596309
+  },
+  {
+    "key": "7090f420f6d2217dc58c2e37be8e5912e8da0331c20becc34eaed50caa3c3272",
+    "club": "Stat Act",
+    "athlete": "Xenia K.",
+    "name": "Natlig løbetur",
+    "distance_km": 5.36,
+    "type": "Run",
+    "first_seen": 1787601149
   }
 ]
