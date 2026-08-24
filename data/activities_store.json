@@ -5290,5 +5290,23 @@
     "distance_km": 7.31,
     "type": "Run",
     "first_seen": 1787572279
+  },
+  {
+    "key": "13d1c1bfc518a0c5da9895aecc42940455015a645b74b735f7c0d2cb0fa6764b",
+    "club": "Mat-Øk",
+    "athlete": "Amalie K.",
+    "name": "hygge med siw",
+    "distance_km": 5.48,
+    "type": "Run",
+    "first_seen": 1787588810
+  },
+  {
+    "key": "e4daf3845415b0611e3910bb63cb7624b74c60a50653c682448c9dd058f83f5d",
+    "club": "Mat-Øk",
+    "athlete": "Sebastian Coriani H.",
+    "name": "Hygge med Flo",
+    "distance_km": 6.4,
+    "type": "Run",
+    "first_seen": 1787588810
   }
 ]
