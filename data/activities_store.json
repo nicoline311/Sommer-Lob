@@ -5281,5 +5281,14 @@
     "distance_km": 5.01,
     "type": "Run",
     "first_seen": 1787567418
+  },
+  {
+    "key": "c7ed9a61df99b65f38de5088df518bcfe680f83b7cb848fb9b2cd9d9843d05a5",
+    "club": "Mat-Øk",
+    "athlete": "Christian K.",
+    "name": "Løb til frokost",
+    "distance_km": 7.31,
+    "type": "Run",
+    "first_seen": 1787572279
   }
 ]
