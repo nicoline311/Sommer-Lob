@@ -5272,5 +5272,14 @@
     "distance_km": 6.36,
     "type": "Run",
     "first_seen": 1787560734
+  },
+  {
+    "key": "4544be6cdc1d7fc8d3bfe9241cd3c1a8b76c8d0b02745ce4b7b05ea998d8b175",
+    "club": "Stat Act",
+    "athlete": "Signe J.",
+    "name": "Løb til frokost",
+    "distance_km": 5.01,
+    "type": "Run",
+    "first_seen": 1787567418
   }
 ]
