@@ -1,10 +1,10 @@
 {
-  "generated_at": 1787696322,
+  "generated_at": 1787698341,
   "competition_start": "2026-07-01",
   "clubs": [
     {
       "club": "Mat-Øk",
-      "total_km": 2806.1
+      "total_km": 2811.3
     },
     {
       "club": "Stat Act",
@@ -241,6 +241,11 @@
       "athlete": "Jens Christian K.",
       "club": "Mat-Øk",
       "total_km": 7.7
+    },
+    {
+      "athlete": "Kornelius Nytoft B.",
+      "club": "Mat-Øk",
+      "total_km": 5.1
     },
     {
       "athlete": "Noah Bøggild I.",
