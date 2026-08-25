@@ -5407,5 +5407,14 @@
     "distance_km": 15.33,
     "type": "Run",
     "first_seen": 1787680425
+  },
+  {
+    "key": "2bd6cbc60cdf3b3006de9ee1fa9e1e22a6723a02ea2bcfd19bbd14a12b871933",
+    "club": "Stat Act",
+    "athlete": "Amalie A.",
+    "name": "Løb om aftenen",
+    "distance_km": 6.04,
+    "type": "Run",
+    "first_seen": 1787687611
   }
 ]
