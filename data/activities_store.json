@@ -5335,5 +5335,23 @@
     "distance_km": 8.49,
     "type": "Run",
     "first_seen": 1787639807
+  },
+  {
+    "key": "fc3e4a9d259edc43af5c4320697e17c2b1e6c19ae1e52ea92c4a56c78632a106",
+    "club": "Stat Act",
+    "athlete": "Christoffer T.",
+    "name": "Afternoon Run",
+    "distance_km": 3.09,
+    "type": "Run",
+    "first_seen": 1787675253
+  },
+  {
+    "key": "bc88240e005b260d472b69935a5029d52c2d3ccc5d8081c1262332355a4a0361",
+    "club": "Stat Act",
+    "athlete": "Lucas B.",
+    "name": "Afternoon Run",
+    "distance_km": 8.01,
+    "type": "Run",
+    "first_seen": 1787675253
   }
 ]
