@@ -5353,5 +5353,23 @@
     "distance_km": 8.01,
     "type": "Run",
     "first_seen": 1787675253
+  },
+  {
+    "key": "267cf5af4bafa1ca018d2e4138f9073ef0d8eadb66634bbb40aa33a0631ede2f",
+    "club": "Mat-Øk",
+    "athlete": "Emilie M.",
+    "name": "Sammen med resten af København",
+    "distance_km": 5.24,
+    "type": "Run",
+    "first_seen": 1787677518
+  },
+  {
+    "key": "5e25393bda47d809cf0ce700c3a1350eb1466aa58c10868badcc7ab981d54376",
+    "club": "Mat-Øk",
+    "athlete": "Emilie Bæk C.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 8.38,
+    "type": "Run",
+    "first_seen": 1787677518
   }
 ]
