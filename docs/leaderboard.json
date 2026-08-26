@@ -1,21 +1,21 @@
 {
-  "generated_at": 1787760709,
+  "generated_at": 1787767965,
   "competition_start": "2026-07-01",
   "clubs": [
     {
       "club": "Mat-Øk",
-      "total_km": 2829.5
+      "total_km": 2850.4
     },
     {
       "club": "Stat Act",
-      "total_km": 2228.7
+      "total_km": 2261.9
     }
   ],
   "athletes": [
     {
       "athlete": "Adam L.",
       "club": "Mat-Øk",
-      "total_km": 495.2
+      "total_km": 500.4
     },
     {
       "athlete": "Frederik Nexø K.",
@@ -40,7 +40,7 @@
     {
       "athlete": "Stine B.",
       "club": "Stat Act",
-      "total_km": 227.2
+      "total_km": 232.4
     },
     {
       "athlete": "August R.",
@@ -53,14 +53,14 @@
       "total_km": 196.7
     },
     {
+      "athlete": "Line M.",
+      "club": "Stat Act",
+      "total_km": 190.0
+    },
+    {
       "athlete": "Amalie K.",
       "club": "Mat-Øk",
       "total_km": 188.1
-    },
-    {
-      "athlete": "Line M.",
-      "club": "Stat Act",
-      "total_km": 177.6
     },
     {
       "athlete": "Daniel S.",
@@ -85,7 +85,7 @@
     {
       "athlete": "Carl Legart B.",
       "club": "Mat-Øk",
-      "total_km": 139.0
+      "total_km": 149.4
     },
     {
       "athlete": "Lucas B.",
@@ -120,12 +120,12 @@
     {
       "athlete": "Michala J.",
       "club": "Mat-Øk",
-      "total_km": 90.0
+      "total_km": 95.2
     },
     {
       "athlete": "Willads A.",
       "club": "Stat Act",
-      "total_km": 89.1
+      "total_km": 94.2
     },
     {
       "athlete": "Mathias F.",
@@ -135,12 +135,17 @@
     {
       "athlete": "Xenia K.",
       "club": "Stat Act",
-      "total_km": 77.1
+      "total_km": 82.4
     },
     {
       "athlete": "Emilie M.",
       "club": "Mat-Øk",
       "total_km": 53.5
+    },
+    {
+      "athlete": "Frederik L.",
+      "club": "Stat Act",
+      "total_km": 47.3
     },
     {
       "athlete": "Emil S.",
@@ -151,11 +156,6 @@
       "athlete": "Anika H.",
       "club": "Stat Act",
       "total_km": 45.1
-    },
-    {
-      "athlete": "Frederik L.",
-      "club": "Stat Act",
-      "total_km": 42.2
     },
     {
       "athlete": "Max F.",

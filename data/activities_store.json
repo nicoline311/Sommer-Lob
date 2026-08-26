@@ -5488,5 +5488,77 @@
     "distance_km": 11.67,
     "type": "Run",
     "first_seen": 1787760709
+  },
+  {
+    "key": "5eda1633645f59c526634334c2a0bb46d735f9e298366cd7d973345c8ecbf490",
+    "club": "Stat Act",
+    "athlete": "Frederik L.",
+    "name": "DHL",
+    "distance_km": 5.15,
+    "type": "Run",
+    "first_seen": 1787767963
+  },
+  {
+    "key": "bc0ca1614e0a0db8342fa4a8128bd989a34eb381a31dcc28dcdc04ff53f3a071",
+    "club": "Stat Act",
+    "athlete": "Willads A.",
+    "name": "Evening Run",
+    "distance_km": 5.14,
+    "type": "Run",
+    "first_seen": 1787767963
+  },
+  {
+    "key": "f085006be483c21288d282f135d0c619ab94d71703aac54e870c6bf1b0430eb5",
+    "club": "Stat Act",
+    "athlete": "Stine B.",
+    "name": "DHL reserve 1",
+    "distance_km": 5.19,
+    "type": "Run",
+    "first_seen": 1787767963
+  },
+  {
+    "key": "efdbbf19d72ae90ec888da3c29d1ba88257b7b15bfe09c3c6cb3afcd2d0958b8",
+    "club": "Stat Act",
+    "athlete": "Xenia K.",
+    "name": "Eftermiddagsløbetur",
+    "distance_km": 5.34,
+    "type": "Run",
+    "first_seen": 1787767963
+  },
+  {
+    "key": "5e2984d032c2901a76bf96e12917f7b2d6667d06e5c661bd5493538433066e1f",
+    "club": "Stat Act",
+    "athlete": "Line M.",
+    "name": "Afternoon Run",
+    "distance_km": 12.35,
+    "type": "Run",
+    "first_seen": 1787767963
+  },
+  {
+    "key": "2b7df0bf8dee82f991736b2a688e811638e101d73e4445f8ad101206053afb3f",
+    "club": "Mat-Øk",
+    "athlete": "Adam L.",
+    "name": "Evening Run",
+    "distance_km": 5.27,
+    "type": "Run",
+    "first_seen": 1787767965
+  },
+  {
+    "key": "822eaf601e14625be3ee015127bf5df9bad3e997da6d240e3553ea144280b7ca",
+    "club": "Mat-Øk",
+    "athlete": "Michala J.",
+    "name": "Aftenløbetur",
+    "distance_km": 5.18,
+    "type": "Run",
+    "first_seen": 1787767965
+  },
+  {
+    "key": "f3d1153bd7fb2ae1ed86f8eed12cb35df33d807e1029e8f07cc523f8bc22195e",
+    "club": "Mat-Øk",
+    "athlete": "Carl Legart B.",
+    "name": "Afternoon Run",
+    "distance_km": 10.46,
+    "type": "Run",
+    "first_seen": 1787767965
   }
 ]
