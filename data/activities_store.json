@@ -5452,5 +5452,14 @@
     "distance_km": 5.14,
     "type": "Run",
     "first_seen": 1787698341
+  },
+  {
+    "key": "c6ba20e91102d41bc1499f323f319ac715e4054e4b0152b445fb2a223e7ae753",
+    "club": "Stat Act",
+    "athlete": "Emil S.",
+    "name": "Formiddags8k🦑",
+    "distance_km": 8.0,
+    "type": "Run",
+    "first_seen": 1787740045
   }
 ]
