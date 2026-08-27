@@ -5605,5 +5605,68 @@
     "distance_km": 5.12,
     "type": "Run",
     "first_seen": 1787775939
+  },
+  {
+    "key": "d1478b3f2966356dbe0adad98a932640ee9c15c4ebad9fa43156eeca2fca9367",
+    "club": "Stat Act",
+    "athlete": "silas B.",
+    "name": "DHL: anden runde",
+    "distance_km": 5.31,
+    "type": "Run",
+    "first_seen": 1787853105
+  },
+  {
+    "key": "1d42009991725a7c8efccdaf0acea1c2bf9d6c25a06ec8c66218f671da3ff928",
+    "club": "Stat Act",
+    "athlete": "Frederik Nexø K.",
+    "name": "Løb om aftenen",
+    "distance_km": 5.13,
+    "type": "Run",
+    "first_seen": 1787853105
+  },
+  {
+    "key": "bdd4a0ed32ff7cd66bf60ea2e8bc79096ac1f03bd8c891ced81107a78ccd49e0",
+    "club": "Stat Act",
+    "athlete": "silas B.",
+    "name": "DHL: første runde",
+    "distance_km": 5.34,
+    "type": "Run",
+    "first_seen": 1787853105
+  },
+  {
+    "key": "3292969fb6e98c9f20a12675e0f5ea1c0d4991d0c7df1f2ab3185d14fa3ed1b6",
+    "club": "Stat Act",
+    "athlete": "Christoffer T.",
+    "name": "Evening Run",
+    "distance_km": 5.02,
+    "type": "Run",
+    "first_seen": 1787853105
+  },
+  {
+    "key": "ef4004d41f4fbbaa1bf1721c2d8ab87bbcfc0f45b872a05214a7d0a339c739c9",
+    "club": "Stat Act",
+    "athlete": "Stine B.",
+    "name": "DHL pacing duties",
+    "distance_km": 5.12,
+    "type": "Run",
+    "first_seen": 1787853105
+  },
+  {
+    "key": "3179d048c5d255d09f6c03b809cd4c938e4ebf09b987dcc3f383c7e020b2593d",
+    "club": "Stat Act",
+    "athlete": "Lucas B.",
+    "name": "Løb om morgenen",
+    "distance_km": 10.0,
+    "type": "Run",
+    "first_seen": 1787853105
+  },
+  {
+    "key": "300887eb0643a0977de1c3500b743d3593df2589f7ef774b65cb3bfbda236de6",
+    "club": "Mat-Øk",
+    "athlete": "Emilie M.",
+    "name": "Med Cille på tur til Nordhavn",
+    "distance_km": 6.1,
+    "type": "Run",
+    "first_seen": 1787853107
   }
 ]
