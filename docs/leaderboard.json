@@ -1,14 +1,14 @@
 {
-  "generated_at": 1787925347,
+  "generated_at": 1787959305,
   "competition_start": "2026-07-01",
   "clubs": [
     {
       "club": "Mat-Øk",
-      "total_km": 2925.0
+      "total_km": 2933.0
     },
     {
       "club": "Stat Act",
-      "total_km": 2324.3
+      "total_km": 2335.5
     }
   ],
   "athletes": [
@@ -45,7 +45,7 @@
     {
       "athlete": "August R.",
       "club": "Mat-Øk",
-      "total_km": 204.8
+      "total_km": 212.7
     },
     {
       "athlete": "Emilie Bæk C.",
@@ -53,14 +53,14 @@
       "total_km": 201.9
     },
     {
+      "athlete": "Line M.",
+      "club": "Stat Act",
+      "total_km": 195.1
+    },
+    {
       "athlete": "Amalie K.",
       "club": "Mat-Øk",
       "total_km": 193.2
-    },
-    {
-      "athlete": "Line M.",
-      "club": "Stat Act",
-      "total_km": 190.0
     },
     {
       "athlete": "silas B.",
@@ -80,7 +80,7 @@
     {
       "athlete": "Amalie A.",
       "club": "Stat Act",
-      "total_km": 150.1
+      "total_km": 156.1
     },
     {
       "athlete": "Carl Legart B.",
