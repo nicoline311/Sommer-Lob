@@ -5821,5 +5821,23 @@
     "distance_km": 10.01,
     "type": "Run",
     "first_seen": 1788002151
+  },
+  {
+    "key": "43a848160f81999ddcd9b782b87585d601bfab89f6ee191a7c8e1855c846d8c1",
+    "club": "Mat-Øk",
+    "athlete": "Adam L.",
+    "name": "Afternoon Run",
+    "distance_km": 22.1,
+    "type": "Run",
+    "first_seen": 1788018170
+  },
+  {
+    "key": "15cfaf4c57903b557a016a693048bcc276f8eb2ab44a39edd4468a9be89c0dac",
+    "club": "Mat-Øk",
+    "athlete": "Johannes L.",
+    "name": "Middagsløbetur",
+    "distance_km": 8.15,
+    "type": "Run",
+    "first_seen": 1788018170
   }
 ]
