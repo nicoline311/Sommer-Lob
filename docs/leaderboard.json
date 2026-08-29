@@ -1,14 +1,14 @@
 {
-  "generated_at": 1787976920,
+  "generated_at": 1788002151,
   "competition_start": "2026-07-01",
   "clubs": [
     {
       "club": "Mat-Øk",
-      "total_km": 2933.0
+      "total_km": 2976.5
     },
     {
       "club": "Stat Act",
-      "total_km": 2335.5
+      "total_km": 2343.2
     }
   ],
   "athletes": [
@@ -25,7 +25,7 @@
     {
       "athlete": "Sebastian Coriani H.",
       "club": "Mat-Øk",
-      "total_km": 310.8
+      "total_km": 315.8
     },
     {
       "athlete": "Max R.",
@@ -45,22 +45,22 @@
     {
       "athlete": "August R.",
       "club": "Mat-Øk",
-      "total_km": 212.7
+      "total_km": 222.9
+    },
+    {
+      "athlete": "Amalie K.",
+      "club": "Mat-Øk",
+      "total_km": 203.2
+    },
+    {
+      "athlete": "Line M.",
+      "club": "Stat Act",
+      "total_km": 202.9
     },
     {
       "athlete": "Emilie Bæk C.",
       "club": "Mat-Øk",
       "total_km": 201.9
-    },
-    {
-      "athlete": "Line M.",
-      "club": "Stat Act",
-      "total_km": 195.1
-    },
-    {
-      "athlete": "Amalie K.",
-      "club": "Mat-Øk",
-      "total_km": 193.2
     },
     {
       "athlete": "silas B.",
@@ -78,14 +78,14 @@
       "total_km": 169.3
     },
     {
+      "athlete": "Carl Legart B.",
+      "club": "Mat-Øk",
+      "total_km": 157.1
+    },
+    {
       "athlete": "Amalie A.",
       "club": "Stat Act",
       "total_km": 156.1
-    },
-    {
-      "athlete": "Carl Legart B.",
-      "club": "Mat-Øk",
-      "total_km": 149.4
     },
     {
       "athlete": "Lucas B.",
@@ -108,6 +108,11 @@
       "total_km": 104.4
     },
     {
+      "athlete": "Michala J.",
+      "club": "Mat-Øk",
+      "total_km": 101.2
+    },
+    {
       "athlete": "Oscar H.",
       "club": "Mat-Øk",
       "total_km": 100.4
@@ -121,11 +126,6 @@
       "athlete": "Oliver G.",
       "club": "Stat Act",
       "total_km": 96.7
-    },
-    {
-      "athlete": "Michala J.",
-      "club": "Mat-Øk",
-      "total_km": 95.2
     },
     {
       "athlete": "Mathias F.",
@@ -168,14 +168,14 @@
       "total_km": 40.4
     },
     {
+      "athlete": "Lucas S.",
+      "club": "Mat-Øk",
+      "total_km": 40.1
+    },
+    {
       "athlete": "Jeppe S.",
       "club": "Mat-Øk",
       "total_km": 38.1
-    },
-    {
-      "athlete": "Lucas S.",
-      "club": "Mat-Øk",
-      "total_km": 35.4
     },
     {
       "athlete": "Lucas X.",

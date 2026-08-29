@@ -5758,5 +5758,68 @@
     "distance_km": 7.96,
     "type": "Run",
     "first_seen": 1787959305
+  },
+  {
+    "key": "998ab68d8e241e32f542256e377dfff89fe13b5a36478ed936554f6810693325",
+    "club": "Stat Act",
+    "athlete": "Line M.",
+    "name": "Morning Run",
+    "distance_km": 7.77,
+    "type": "Run",
+    "first_seen": 1788002149
+  },
+  {
+    "key": "9095cedf0c46896d5891fcf67c7a3c868b07a3c93c394273b7987168b267c934",
+    "club": "Mat-Øk",
+    "athlete": "Michala J.",
+    "name": "Morgenløbetur",
+    "distance_km": 6.03,
+    "type": "Run",
+    "first_seen": 1788002151
+  },
+  {
+    "key": "ae7f1790e86c608bc3846685aa2993c0c879ab79c7f82e3a9ef8f04c3c711fbb",
+    "club": "Mat-Øk",
+    "athlete": "August R.",
+    "name": "Løb om morgenen",
+    "distance_km": 10.14,
+    "type": "Run",
+    "first_seen": 1788002151
+  },
+  {
+    "key": "20d72d785aa05bdff29dc00f75e28bc68683a074d3023e494894692462530318",
+    "club": "Mat-Øk",
+    "athlete": "Sebastian Coriani H.",
+    "name": "Morgen intervaller",
+    "distance_km": 5.02,
+    "type": "Run",
+    "first_seen": 1788002151
+  },
+  {
+    "key": "5ab9f458b478a8fcf1fe3e33d1e164a41571893216c4d683e8b7689cae9fc687",
+    "club": "Mat-Øk",
+    "athlete": "Lucas S.",
+    "name": "Løb om morgenen",
+    "distance_km": 4.62,
+    "type": "Run",
+    "first_seen": 1788002151
+  },
+  {
+    "key": "e798bf92dd2d93bf05c769b3f692f71a59042e73e5817c0c7c4954b8deaac4fe",
+    "club": "Mat-Øk",
+    "athlete": "Carl Legart B.",
+    "name": "Morning Run",
+    "distance_km": 7.66,
+    "type": "Run",
+    "first_seen": 1788002151
+  },
+  {
+    "key": "8065781221bded55bd859a61c44fdcc7d6028e396f19bd7bcdcdae83b8363907",
+    "club": "Mat-Øk",
+    "athlete": "Amalie K.",
+    "name": "Morning Run",
+    "distance_km": 10.01,
+    "type": "Run",
+    "first_seen": 1788002151
   }
 ]
