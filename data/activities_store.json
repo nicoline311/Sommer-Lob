@@ -5956,5 +5956,23 @@
     "distance_km": 8.71,
     "type": "Run",
     "first_seen": 1788113245
+  },
+  {
+    "key": "53a6147ec62f0e7c7b9fe856e31d54c0d2d6458514fc8449fed5730751dfae67",
+    "club": "Stat Act",
+    "athlete": "cks B.",
+    "name": "Aftenløbetur",
+    "distance_km": 7.57,
+    "type": "Run",
+    "first_seen": 1788124735
+  },
+  {
+    "key": "50b4b3d047506b27a793f792e8f3c43ebd9ab6057e46e8b167156afdb28f8509",
+    "club": "Stat Act",
+    "athlete": "Lucas B.",
+    "name": "Løb om aftenen",
+    "distance_km": 10.0,
+    "type": "Run",
+    "first_seen": 1788124735
   }
 ]

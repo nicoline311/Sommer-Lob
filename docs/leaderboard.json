@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788113245,
+  "generated_at": 1788124737,
   "competition_start": "2026-07-01",
   "clubs": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "club": "Stat Act",
-      "total_km": 2418.7
+      "total_km": 2436.3
     }
   ],
   "athletes": [
@@ -90,7 +90,7 @@
     {
       "athlete": "Lucas B.",
       "club": "Stat Act",
-      "total_km": 146.4
+      "total_km": 156.4
     },
     {
       "athlete": "Magnus S.",
@@ -213,6 +213,11 @@
       "total_km": 25.4
     },
     {
+      "athlete": "cks B.",
+      "club": "Stat Act",
+      "total_km": 23.6
+    },
+    {
       "athlete": "Nicoline N.",
       "club": "Mat-Øk",
       "total_km": 23.5
@@ -226,11 +231,6 @@
       "athlete": "Frederik H.",
       "club": "Mat-Øk",
       "total_km": 19.7
-    },
-    {
-      "athlete": "cks B.",
-      "club": "Stat Act",
-      "total_km": 16.0
     },
     {
       "athlete": "Nicoline N.",
