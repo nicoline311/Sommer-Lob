@@ -5875,5 +5875,86 @@
     "distance_km": 2.01,
     "type": "Run",
     "first_seen": 1788099087
+  },
+  {
+    "key": "50244118ae10e8bdc327d472d99a873ae4c0fff77343a361a7b456415f5d370f",
+    "club": "Stat Act",
+    "athlete": "Signe J.",
+    "name": "Eftermiddagsløbetur",
+    "distance_km": 10.19,
+    "type": "Run",
+    "first_seen": 1788113244
+  },
+  {
+    "key": "ae3b010ca6ff0a2c73cc2ec607edbd706a1770f0f9f0f91ccf1d7d5182c61c48",
+    "club": "Stat Act",
+    "athlete": "Mathias F.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 7.01,
+    "type": "Run",
+    "first_seen": 1788113244
+  },
+  {
+    "key": "a972345c18f02f47764df5ed6b829ec80fb528e1523bbd7879ecad253af38eb8",
+    "club": "Stat Act",
+    "athlete": "Amalie A.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 13.09,
+    "type": "Run",
+    "first_seen": 1788113244
+  },
+  {
+    "key": "3a667db151801f92d8275e909e73be069d6b62ffdf6f2458735b61ec9c8622e1",
+    "club": "Mat-Øk",
+    "athlete": "Yi H.",
+    "name": "Evening Run",
+    "distance_km": 5.68,
+    "type": "Run",
+    "first_seen": 1788113245
+  },
+  {
+    "key": "7c67dbbaec219f8b41793c18d55952770e69102ce6b8b805f7211bbca2769bc9",
+    "club": "Mat-Øk",
+    "athlete": "Oscar H.",
+    "name": "Afternoon Run",
+    "distance_km": 6.37,
+    "type": "Run",
+    "first_seen": 1788113245
+  },
+  {
+    "key": "cacaf86c3e1d30808ff3677f26806ab44e0eecb7bec6b2119546fee5350541ed",
+    "club": "Mat-Øk",
+    "athlete": "August R.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 8.1,
+    "type": "Run",
+    "first_seen": 1788113245
+  },
+  {
+    "key": "208f5642e27b23d78e9859531cfe720c2db6abeb8dedc30f2c151a2adfe24c48",
+    "club": "Mat-Øk",
+    "athlete": "Emilie Bæk C.",
+    "name": "Langtur",
+    "distance_km": 13.02,
+    "type": "Run",
+    "first_seen": 1788113245
+  },
+  {
+    "key": "49fcf4dcae3ab426976119b91f3875ec4325688a9db510a9548555bbb1c5ed04",
+    "club": "Mat-Øk",
+    "athlete": "Sebastian Coriani H.",
+    "name": "Long run med effort segment",
+    "distance_km": 30.15,
+    "type": "Run",
+    "first_seen": 1788113245
+  },
+  {
+    "key": "1d474978fe3373f5166f82a8fba16df071978ba462d485604c7394a853643074",
+    "club": "Mat-Øk",
+    "athlete": "Emilie Bæk C.",
+    "name": "Intervaller",
+    "distance_km": 8.71,
+    "type": "Run",
+    "first_seen": 1788113245
   }
 ]
