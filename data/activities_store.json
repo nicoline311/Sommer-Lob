@@ -5839,5 +5839,41 @@
     "distance_km": 8.15,
     "type": "Run",
     "first_seen": 1788018170
+  },
+  {
+    "key": "c1ae3e7d87afde7f333c462223f708b7ffb3fb56b8b32c599e8701deefec3308",
+    "club": "Stat Act",
+    "athlete": "Frederik Nexø K.",
+    "name": "Løb til frokost",
+    "distance_km": 21.01,
+    "type": "Run",
+    "first_seen": 1788099085
+  },
+  {
+    "key": "a8d57bd7c85fda6b9937303a9f8bb935ac466ee67e37373ebfa18dfa0daabb51",
+    "club": "Stat Act",
+    "athlete": "Anika H.",
+    "name": "Med to pacere i dag",
+    "distance_km": 8.0,
+    "type": "Run",
+    "first_seen": 1788099085
+  },
+  {
+    "key": "17abe64c75632036f5ec4dce169818f39bc841a8c03308d070e7dbecd8a56416",
+    "club": "Stat Act",
+    "athlete": "Line M.",
+    "name": "Morning Run",
+    "distance_km": 16.22,
+    "type": "Run",
+    "first_seen": 1788099085
+  },
+  {
+    "key": "b18046d6c7bfe964d804eb6c33087c0f28f245c6f34303c5f95b253b1505dd9e",
+    "club": "Mat-Øk",
+    "athlete": "Jeppe S.",
+    "name": "Tempo-trip",
+    "distance_km": 2.01,
+    "type": "Run",
+    "first_seen": 1788099087
   }
 ]
