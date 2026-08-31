@@ -1,10 +1,10 @@
 {
-  "generated_at": 1788144294,
+  "generated_at": 1788167388,
   "competition_start": "2026-07-01",
   "clubs": [
     {
       "club": "Mat-Øk",
-      "total_km": 3080.8
+      "total_km": 3098.9
     },
     {
       "club": "Stat Act",
@@ -15,7 +15,7 @@
     {
       "athlete": "Adam L.",
       "club": "Mat-Øk",
-      "total_km": 537.6
+      "total_km": 550.7
     },
     {
       "athlete": "Sebastian Coriani H.",
@@ -50,7 +50,7 @@
     {
       "athlete": "Emilie Bæk C.",
       "club": "Mat-Øk",
-      "total_km": 223.6
+      "total_km": 228.7
     },
     {
       "athlete": "Line M.",
