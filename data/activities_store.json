@@ -5992,5 +5992,32 @@
     "distance_km": 13.14,
     "type": "Run",
     "first_seen": 1788167388
+  },
+  {
+    "key": "4086d3fd84b4b4971477ccc9ea10345b05b1768a99479d55d6a674228ccc169f",
+    "club": "Stat Act",
+    "athlete": "Frederik Nexø K.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 5.01,
+    "type": "Run",
+    "first_seen": 1788196171
+  },
+  {
+    "key": "31b9e24fd92abbdd178de34fe8f5522ac80d9ed0be61bd9d1df962d168b3245a",
+    "club": "Mat-Øk",
+    "athlete": "Magnus S.",
+    "name": "Løb til frokost",
+    "distance_km": 5.01,
+    "type": "Run",
+    "first_seen": 1788196173
+  },
+  {
+    "key": "0bca179b26515cd6dd64a20457a5f09c82a8b45fcda2115dd7bc338996347a6b",
+    "club": "Mat-Øk",
+    "athlete": "Amalie K.",
+    "name": "tempotur turned hiking ig",
+    "distance_km": 8.48,
+    "type": "Run",
+    "first_seen": 1788196173
   }
 ]
