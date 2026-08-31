@@ -6019,5 +6019,14 @@
     "distance_km": 8.48,
     "type": "Run",
     "first_seen": 1788196173
+  },
+  {
+    "key": "9aefb2fe1b283d1d69fe952053856a821288e91704204d70e33447eec64072af",
+    "club": "Stat Act",
+    "athlete": "Sebastian J.",
+    "name": "Aftenløbetur",
+    "distance_km": 11.62,
+    "type": "Run",
+    "first_seen": 1788213478
   }
 ]
