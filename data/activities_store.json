@@ -6028,5 +6028,41 @@
     "distance_km": 11.62,
     "type": "Run",
     "first_seen": 1788213478
+  },
+  {
+    "key": "959d32c92e024527866b009a40428da2553e97d91bb96878ead4845b7a21b728",
+    "club": "Stat Act",
+    "athlete": "Anika H.",
+    "name": "Kom til at pause turen midt i🫠",
+    "distance_km": 5.43,
+    "type": "Run",
+    "first_seen": 1788277910
+  },
+  {
+    "key": "e7d13079a5b7ddb95a57e6d99f929da5e7fcc41665e4604d6b10d4e8c605db0c",
+    "club": "Stat Act",
+    "athlete": "Lucas B.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 7.03,
+    "type": "Run",
+    "first_seen": 1788277910
+  },
+  {
+    "key": "8065bc7eedf894492e4e55471535fbfb36a5b9c50d40cb008b2e9ea32f9ca05b",
+    "club": "Mat-Øk",
+    "athlete": "Johannes L.",
+    "name": "Eftermiddagsløbetur",
+    "distance_km": 4.42,
+    "type": "Run",
+    "first_seen": 1788277912
+  },
+  {
+    "key": "6583b99b30df421fd3fb40e18b9ac514707235d9e33ff8e61e55d17c4856019b",
+    "club": "Mat-Øk",
+    "athlete": "August R.",
+    "name": "Løb om eftermiddagen",
+    "distance_km": 10.11,
+    "type": "Run",
+    "first_seen": 1788277912
   }
 ]
